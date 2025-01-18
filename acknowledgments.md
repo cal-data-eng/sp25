@@ -14,6 +14,7 @@ markdown: kramdown
 The content and structure of Data 101 have been designed and developed over the years thanks to many dedicated faculty and instructors at UC Berkeley.
 
 Valuable and essential instructional contributors (alphabetical order):
+Michael Ball,
 Joe Hellerstein,
 Lakshya Jain,
 Aditya Parameswaran,

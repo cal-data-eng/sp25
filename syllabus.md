@@ -86,7 +86,7 @@ If individuals are disrespectful to students, course staff, or others via course
 
 ### Lecture
 
-There are two 80-minute lectures per week, **{{page.lec_info}}**. You can attend in-person or online (see Ed post), or watch the recording. The class [schedule][schedule] will contain links to video recordings posted within 24 hours after the corresponding class.
+There are two 80-minute lectures per week, **{{page.lec_info}}**. You can attend in-person or online, or watch the recording. The class [schedule][schedule] will contain links to video recordings posted within 24 hours after the corresponding class.
 
 **Lecture check-ins**: Every lecture will have a short series of questions to help check your understanding of the material. You will have one week to complete each check-in; no late submissions will be accepted. Each check-in is worth 1 point and is graded on completeness as follows:
   * Synchronous (during lecture) complete at least one question.
@@ -100,11 +100,11 @@ This course also includes one weekly 50-minute discussion section held on Thursd
 
 ### Projects
 
-There will be five (5) programming assignments released throughout the semester (see the [schedule][schedule]). Generally, you will have one to two weeks to complete each project. Projects are graded on accuracy and are almost equally weighted, with the exception of Project 0 (weighted half of the other projects). Project deadlines are **Wednesday 5pm**.
+There will be five (5) programming assignments released throughout the semester (see the [schedule][schedule]). Generally, you will have one to two weeks to complete each project. Projects are graded on accuracy and are almost equally weighted, with the exception of Project 0 (weighted half of the other projects). Project deadlines are generally **Wednesday 5pm**.
 
 ### Homework Assignments
 
-There will be five (5) homework assignments released on Gradescope throughout the semester. You will have one to two weeks to complete short written assignments. Each homework assignment consists of multiple choice and short answer questions. Homework assignments are graded on accuracy and are equally weighted. Homework assignment deadlines are **Wednesday 5pm**.
+There will be five (5) homework assignments released on Gradescope throughout the semester. You will have one to two weeks to complete short written assignments. Each homework assignment consists of multiple choice and short answer questions. Homework assignments are graded on accuracy and are equally weighted. Homework assignment deadlines are generally **Wednesday 5pm**.
 
 ### Exams
 
@@ -121,7 +121,7 @@ We will have an **optional** final course project this semester. This will be an
 ### Office Hours
 
 Office Hours are a great place to get help from course staff and to find study partners for this course. You can find a list of all office hours on the [calendar]({{site.base_url}}/calendar) page. There are two categories of office hours:
-* **TA/UCS1/UCS2 office hours**, held weekly in **Warren 101B**. Attend to get help with homework assignments, projects, or any other content-related questions.
+* **TA/Tutor office hours**, held weekly in **Warren 101B**. Attend to get help with homework assignments, projects, or any other content-related questions.
 * **Instructor office hours**, held weekly in **Soda 787** are for content-related questions, but also general course questions, data science advising, or perspectives on academia/industry. These are not intended for homework or project questions. Feel free to bring tea/coffee and/or a reusable mug.
 
 ## Grading

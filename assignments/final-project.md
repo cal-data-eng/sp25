@@ -8,14 +8,14 @@ markdown: kramdown
 permalink: /assignments/final-project/
 
 deadlines:
-  overview: "Monday 11/4/24"
-  spec: "Friday 11/8/24"
-  team: "Tuesday 11/12/24, 5pm PT"
-  team_confirm: "Thursday 11/14/24"
-  checkpoint: "Monday 11/25/24 5pm PT"
-  final: "Monday 12/9/24 5pm PT"
+  overview: "TBD"
+  spec: "TBD"
+  team: "TBD"
+  team_confirm: "TBD"
+  checkpoint: "TBD"
+  final: "TBD"
 
-team_form: "https://docs.google.com/forms/d/e/1FAIpQLSe7Suf2tv9wX2d8iZvB79GbqP5_jR0ind4g7ZgHApopr9QkEA/viewform?usp=sf_link"
+team_form: TBD
 ---
 
 # Optional Final Project
@@ -45,7 +45,7 @@ team_form: "https://docs.google.com/forms/d/e/1FAIpQLSe7Suf2tv9wX2d8iZvB79GbqP5_
 [fp_gradescope_checkpoint]: https://www.gradescope.com/courses/835949/assignments/5332076
 
 
-## Overview
+## Overview (Instructions from Fa24, will be updated for Sp25)
 
 The final project is **optional**; if you submit it, it will be [10% of your final grade]({{site.baseurl}}/syllabus). The final project will be a multi-part group project which will ask that you complete an investigation of two data systems—one of which is PostgreSQL and the other will be a non-relational system of your choice—based on a **performance benchmark** (dataset, queries, and measurements) of your design.
 
