@@ -38,9 +38,7 @@ module Jekyll
 
     def render(context)
       lectures = context['site']['lectures']
-      # lecture = lectures[@number.to_i - 1] if lectures[@number.to_i - 1]
-      lecture = lectures[@number.to_i]
-      # Aditya: made this change to allow for Spring to start on first day. 
+      lecture = lectures[@number.to_i - 1] if lectures[@number.to_i - 1]
       lecture_title = lecture['title']
       # Directly grab the date string from the lecture data
       date_parts = lecture['date'].to_s.split('-')
