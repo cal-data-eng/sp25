@@ -54,7 +54,7 @@ course_faq: /sp25faq
 aux_links:
   Course Notes: https://data101.org/notes
   DataHub: https://data101.datahub.berkeley.edu
-  Additional Extensions: "https://docs.google.com/forms/d/e/1FAIpQLScV_uwM0_axCcAaLxzDH6ZtnjtdH4JF2SFJNOwIsurepXT_Hg/viewform?usp=sf_link"
+  Additional Extensions: "https://docs.google.com/forms/d/e/1FAIpQLSca-Tc9_uDAX-cgWZD9R_xU3dTofsklgO23qd04upbIYtGs3A/viewform"
 
 # TODO(template): These need to be documented
 # TODO(semester): You may want to review these...
@@ -281,4 +281,4 @@ course:
   datahub: https://data101.datahub.berkeley.edu/
   videos: https://bcourses.berkeley.edu/courses/1542742/external_tools/90481
   gradescope: https://www.gradescope.com/courses/959541
-  additional_extensions: "https://docs.google.com/forms/d/e/1FAIpQLScV_uwM0_axCcAaLxzDH6ZtnjtdH4JF2SFJNOwIsurepXT_Hg/viewform?usp=sf_link" # Google Form URL
+  additional_extensions: "https://docs.google.com/forms/d/e/1FAIpQLSca-Tc9_uDAX-cgWZD9R_xU3dTofsklgO23qd04upbIYtGs3A/viewform" # Google Form URL

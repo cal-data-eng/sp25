@@ -1,10 +1,10 @@
 ---
 email: aldrinsembrana@berkeley.edu
 name: Aldrin Sembrana
-pronouns: 
-photo: 
+pronouns: HE/HIM
+photo: staff/aldrin.jpeg
 website: 
-bio: 
+bio: Hi, I am a senior majoring in Data Science, and I enjoy dancing, eating, thrifting, cafe-ing, and more! I’m excited to meet you all :))
 role: Tutor
 office-hours: 
 ---

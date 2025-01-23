@@ -18,6 +18,9 @@
     {% if page.team %}
     <span class="team label-{{ page.team }}">{{ page.team }}</span>
     {% endif %}
+    {% if page.alt-team %}
+    <span class="team label-{{ page.alt-team }}">{{ page.alt-team }}</span>
+    {% endif %}
     <h3>
       {% if page.website %}
       <a href="{{ page.website }}" target="_blank">{{ page.name }}</a>

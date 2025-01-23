@@ -88,7 +88,7 @@ If individuals are disrespectful to students, course staff, or others via course
 
 There are two 80-minute lectures per week, **{{page.lec_info}}**. You can attend in-person or online, or watch the recording. The class [schedule][schedule] will contain links to video recordings posted within 24 hours after the corresponding class.
 
-**Lecture check-ins**: Every lecture will have a short series of questions to help check your understanding of the material. You will have one week to complete each check-in; no late submissions will be accepted. Each check-in is worth 1 point and is graded on completeness as follows:
+**Lecture check-ins**: Every lecture (starting the 3rd lecture, **1/28**, onwards) will have a short series of questions to help check your understanding of the material. You will have one week to complete each check-in; no late submissions will be accepted. Each check-in is worth 1 point and is graded on completeness as follows:
   * Synchronous (during lecture) complete at least one question.
   * Asynchronous (after lecture, within 1 week) complete all questions.
 

@@ -2,11 +2,12 @@
 email: christyquang@berkeley.edu
 name: Christy Quang
 pronouns: SHE/HER
-photo: staff/christy.jpeg
+photo: staff/christy.JPG
 website: https://christyquang.github.io/
-bio: Hi hi! My name is Christy and I'm a fourth year CS & DS major from the East Bay. I enjoy destroying people in Word Hunt, watching basketball (Warriors), and eating fruit. Super excited to meet everyone!
+bio: Hi! I'm Christy, a senior studying Computer Science and Data Science. I know a lot about the Warriors. Excited to meet everyone!
 role: Head Teaching Assistant
 office-hours: 
-team: 
-hover-photo: hover/christy.jpeg
+team: Student Support
+alt-team: Assignments
+hover-photo: 
 ---

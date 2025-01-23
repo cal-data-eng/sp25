@@ -1,12 +1,13 @@
 ---
 email: zackaryoon134@berkeley.edu
-name: Zack Oon
+name: Zackary Oon
 pronouns: HE/HIM
-photo: staff/zack.jpeg
+photo: staff/zack.png
 website: https://zackwebsite.vercel.app/
-bio: Hi, I'm Zack, and I'm a senior studying computer science and data science. I like playing super smash bros., and I'm trying to learn volleyball and pickleball!
+bio: Hi, I’m Zack, and I’m a senior studying computer science and data science. I like playing super smash bros., and I’m trying to learn mandarin and drawing!
 role: Head Teaching Assistant
-team: TBD
+team: Logistics
+alt-team: Infrastructure
 office-hours: 
-hover-photo: hover/zack.jpeg
+hover-photo: 
 ---
