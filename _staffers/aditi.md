@@ -8,5 +8,5 @@ bio: Hi! I am a senior majoring in Computer Science. Looking forward to this sem
 role: Teaching Assistant
 office-hours: 
 team: Grading
-hover-photo: hover/aditi.jpeg
+hover-photo:
 ---

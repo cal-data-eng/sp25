@@ -6,9 +6,11 @@ Status: Active
 
 Tue 1/21
 : {% lec 1 %}
+  : [Pre-Semester Form](https://tinyurl.com/data101-sp25-presem)
 
 Thu 1/23
 : {% lec 2 %}
+  : [Course Notes](https://data101.org/notes/1-SQL/review.html#sql-review)
 
 Fri 1/24
 : {% proj_rel 0 %} SQL Review

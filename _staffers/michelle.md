@@ -8,5 +8,5 @@ bio: Hi, this is Michelle! I am a Double Bear majoring in MIMS at the School of 
 role: Teaching Assistant
 office-hours: 
 team: Course Notes
-hover-photo: hover/michelle.jpeg
+hover-photo: 
 ---

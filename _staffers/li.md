@@ -8,5 +8,5 @@ bio: Hey I'm Li! I was a tutor&reader for 101, and I'm so excited to see you guy
 role: Teaching Assistant
 office-hours: 
 team: Projects
-# hover-photo: hover/li.jpeg
+hover-photo: 
 ---
