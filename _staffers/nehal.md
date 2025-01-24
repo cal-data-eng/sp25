@@ -1,6 +1,6 @@
 ---
 email: nehalsindhu@berkeley.edu
-name: Nehal Sidhu
+name: Nehal Sindhu
 pronouns: SHE/HER
 photo: staff/nehal.png
 website: 
