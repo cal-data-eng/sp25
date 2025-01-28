@@ -1,20 +1,24 @@
 ---
-title: Week 1
-date: 2025-01-20
+title: Week 9
+date: 2025-03-17
 Status: Active
 ---
 
-Tue 1/21
-: {% lec 1 %}
-  : [Pre-Semester Form](https://tinyurl.com/data101-sp25-presem)
+Tue 3/18
+: {% lec 17 %}
 
-Thu 1/23
-: {% lec 2 %}
-  : [Course Notes](https://data101.org/notes/1-SQL/review.html#sql-review)
+Wed 3/19
+: {% hw_due 3 %} Due, 5pm
 
-Fri 1/24
-: {% proj_rel 0 %} [SQL Review](https://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Fsp25-materials.git&urlpath=lab%2Ftree%2Fsp25-materials.git%2Fproj&branch=main)
-  : Due Fri 2/7, 5pm
+Thu 3/20
+: {% lec 18 %}
+: {% disc 7 %} TBA 
+  : Solution
+
+Fri 3/21
+: {% proj_rel 3 %} Data Transformation
+  : Due Fri 4/4, 5pm
+
 
 <!--
 Thu 8/29

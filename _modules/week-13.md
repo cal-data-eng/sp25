@@ -1,20 +1,21 @@
 ---
-title: Week 1
-date: 2025-01-20
+title: Week 13
+date: 2025-04-14
 Status: Active
 ---
 
-Tue 1/21
-: {% lec 1 %}
-  : [Pre-Semester Form](https://tinyurl.com/data101-sp25-presem)
+Tue 4/15
+: {% lec 23 %}
 
-Thu 1/23
-: {% lec 2 %}
-  : [Course Notes](https://data101.org/notes/1-SQL/review.html#sql-review)
+Wed 4/16
+: {% proj_due 4 %} Due, 5pm
 
-Fri 1/24
-: {% proj_rel 0 %} [SQL Review](https://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Fsp25-materials.git&urlpath=lab%2Ftree%2Fsp25-materials.git%2Fproj&branch=main)
-  : Due Fri 2/7, 5pm
+Thu 4/17
+: {% lec 24 %}
+
+Fri 4/18
+: {% hw_rel 5 %} Homework 5
+  : Due Wed 4/30, 5pm
 
 <!--
 Thu 8/29
