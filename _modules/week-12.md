@@ -14,6 +14,7 @@ Thu 4/7
 : {% lec 22 %}
 : {% disc 9 %} TBA 
   : Solution
+  
 <!--
 Thu 8/29
 : {% lec 1 %}
