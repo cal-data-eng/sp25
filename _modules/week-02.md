@@ -11,8 +11,8 @@ Tue 1/28
 Thu 1/30
 : {% lec 4 %}
   : [Course Notes](https://data101.org/notes/1-SQL/CTEs.html)
-: {% disc 1 %} SQL Review 
-  : Solution
+: {% disc 1 %} [SQL Review](https://drive.google.com/drive/folders/1q_7H_geiocnAfIQPejM3plKUaIXfUEOL)
+  : [Code](http://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Fsp25-materials&urlpath=tree%2Fsp25-materials%2Fdisc%2Fdisc01%2Fdisc01.ipynb&branch=main), Solution
 
 Fri 1/31
 : {% hw_rel 1 %} Homework 1
