@@ -109,8 +109,8 @@ There will be five (5) homework assignments released on Gradescope throughout th
 ### Exams
 
 This course has two exams:
-* Midterm exam: Wednesday, March 12th, 6:00pm - 8:00pm (VLSB)
-* Final exam: Wednesday, May 14th, 11.30am - 2.30pm
+* Midterm exam: Wednesday, March 12th, 6:00pm - 8:00pm
+* Final exam: Wednesday, May 14th, 11:30am - 2:30pm
 
 **Exams are offered in-person only.** It is your responsibility to ensure that you are not enrolled in another class that conflicts with our midterm or final exam time. All details will be posted on Ed.
 

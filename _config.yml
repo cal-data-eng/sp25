@@ -88,21 +88,26 @@ google_calendar:
       text_color: 'FFFFFF'
       class: cal-disc-section
       icon: fa-person-chalkboard
-    - suffix: Faculty OH
+    - suffix: Faculty Office Hours
       background_color: 'FFC31B' # gold medium
       text_color: '000'
       class: cal-tea-oh
       icon: fa-person-circle-question
-    - suffix: OH
+    - suffix: Office Hours
       background_color: 'D9CEFF' # purple light
       text_color: '000000'
       class: cal-oh
       icon: fa-person-circle-question
-    - suffix: Tutoring
+    - suffix: Tutoring Section(s)
       background_color: 'FFCFE5' # rose light
       text_color: '000000'
       class: cal-tutoring
       icon: fa-people-group
+    - suffix: Exam
+      background_color: 'FA8072' # salmon red
+      text_color: '000000'
+      class: cal-tutoring
+      icon: fa-school
 
 
 # Collections for website data
