@@ -9,7 +9,7 @@ Tue 2/4
 
 Thu 2/6
 : {% lec 6 %}
-: {% disc 2 %} TBA 
+: {% disc 2 %} [Relational Algebra, Subqueries, CTEs, Joins](https://drive.google.com/file/d/1gepPvcURJavM0R2sKYw1MiX8rEdfYD3j/view?usp=sharing)
   : Solution
 
 Fri 2/7
