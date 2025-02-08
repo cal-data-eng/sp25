@@ -10,7 +10,7 @@ Tue 2/4
 Thu 2/6
 : {% lec 6 %}
 : {% disc 2 %} [Relational Algebra, Subqueries, CTEs, Joins](https://drive.google.com/file/d/1gepPvcURJavM0R2sKYw1MiX8rEdfYD3j/view?usp=sharing)
-  : Solution
+  : [Solution](https://drive.google.com/file/d/1fcFiv8rg0gZIeynsHug4oG6R1QvlmxUe/view?usp=sharing)
 
 Fri 2/7
 : {% proj_due 0 %} Due, 5pm
