@@ -428,7 +428,7 @@
   },"61": {
     "doc": "Home",
     "title": "Week 3 Announcement",
-    "content": "Feb 3 ",
+    "content": "Feb 3 Project 0 is due this Friday and Homework 1 is released! . See Week 3 Ed announcement. ",
     "url": "/sp25/",
     
     "relUrl": "/"
@@ -477,7 +477,7 @@
   },"68": {
     "doc": "Home",
     "title": "Week 3",
-    "content": "Tue 2/4 Lecture 5 DML, DDL, Referential Integrity, Constraints Thu 2/6 Lecture 6 Bits/memory model, Performance Tuning, Index Selection Discussion 2 TBA Solution Fri 2/7 Project 0 Due, 5pm Project 1 SQL Due Wed 2/19, 5pm ",
+    "content": "Tue 2/4 Lecture 5 DML, DDL, Referential Integrity, Constraints Thu 2/6 Lecture 6 Bits/memory model, Performance Tuning, Index Selection Discussion 2 Relational Algebra, Subqueries, CTEs, Joins Solution Fri 2/7 Project 0 Due, 5pm Project 1 SQL Due Wed 2/19, 5pm ",
     "url": "/sp25/#week-3",
     
     "relUrl": "/#week-3"

@@ -14,7 +14,7 @@ Thu 2/6
 
 Fri 2/7
 : {% proj_due 0 %} Due, 5pm
-: {% proj_rel 1 %} SQL
+: {% proj_rel 1 %} [SQL](https://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Fsp25-materials.git&urlpath=lab%2Ftree%2Fsp25-materials.git%2Fproj%2Fproj1%2Fproj1.ipynb&branch=main)
   : Due Wed 2/19, 5pm
 
 <!--
