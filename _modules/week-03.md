@@ -6,9 +6,11 @@ Status: Active
 
 Tue 2/4
 : {% lec 5 %}
+  : [Course Notes](https://data101.org/notes/1-SQL/DML.html)
 
 Thu 2/6
 : {% lec 6 %}
+  : [Course Notes](https://data101.org/notes/3-query_perf/indexes.html)
 : {% disc 2 %} [Relational Algebra, Subqueries, CTEs, Joins](https://drive.google.com/file/d/1gepPvcURJavM0R2sKYw1MiX8rEdfYD3j/view?usp=sharing)
   : [Solution](https://drive.google.com/file/d/1fcFiv8rg0gZIeynsHug4oG6R1QvlmxUe/view?usp=sharing)
 

@@ -6,12 +6,14 @@ Status: Active
 
 Tue 2/11
 : {% lec 7 %}
+  : [Course Notes](https://data101.org/notes/3-query_perf/indexes.html)
 
 Wed 2/12
 : {% hw_due 1 %} Due, 5pm
 
 Thu 2/13
 : {% lec 8 %}
+  : [Course Notes](https://data101.org/notes/3-query_perf/query-planning.html)
 : {% disc 3 %} TBA 
   : Solution
 
