@@ -18,5 +18,5 @@ Thu 2/13
   : [Solution](https://drive.google.com/file/d/1vlbz6xfmNrJ0htpTa6SDru97FIRGO6Rg/view?usp=sharing), [Code](http://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Fsp25-materials&urlpath=tree%2Fsp25-materials%2Fdisc%2Fdisc3%2Fdisc03.ipynb&branch=main)
 
 Fri 2/14
-: {% hw_rel 2 %} Homework 2
+: {% hw_rel 2 %} [Homework 2](https://www.gradescope.com/courses/959541/assignments/5765634)
   : Due Wed 2/26, 5pm
