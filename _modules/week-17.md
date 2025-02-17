@@ -5,7 +5,7 @@ Status: Active
 ---
 
 Wed 5/14
-: **Final Exam 11:30am - 2:30pm**
+: **Final**{: .label .label-exam } Final Exam (11:30am-2:30pm)
 
 <!--
 Thu 8/29

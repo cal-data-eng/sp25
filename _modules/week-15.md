@@ -6,6 +6,7 @@ Status: Active
 
 Tue 4/29
 : {% lec 27 %}
+    : End-of-Semester Form
 
 Wed 4/30
 : {% hw_due 5 %} Due, 5pm

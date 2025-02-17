@@ -6,15 +6,13 @@ Status: Active
 
 Tue 3/11
 : {% lec 15 %}
+    : Mid-Semester Form
 
 Wed 3/12
-: **Midterm 6-8 pm**
+: **Midterm**{: .label .label-exam } Midterm Exam (6-8pm)
 
 Thu 3/13
 : {% lec 16 %}
-
-Fri 2/1
-: Mid-semester Survey
 
 <!--
 Thu 8/29
