@@ -6,14 +6,16 @@ Status: Active
 
 Tue 2/18
 : {% lec 9 %}
+  : [Course Notes](https://data101.org/notes/3-query_perf/query-planning.html)
 
 Wed 2/19
 : {% proj_due 1 %} Due, 5pm
 
 Thu 2/20
 : {% lec 10 %}
-: {% disc 4 %} TBA 
-  : Solution
+  : [Course Notes](https://data101.org/notes/4-data_modeling/data_models.html) 
+: {% disc 4 %} [Query Performance](https://drive.google.com/file/d/1-Obia-HHCa9Qs0kKna3d0jxwNMYlgf62/view?usp=sharing)
+  : Solution, [Code](http://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Fsp25-materials&urlpath=tree%2Fsp25-materials%2Fdisc%2Fdisc04%2Fdisc04.ipynb&branch=main)
 
 Fri 2/21
 : {% proj_rel 2 %} Query Performance

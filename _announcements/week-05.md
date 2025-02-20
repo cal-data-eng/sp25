@@ -4,6 +4,6 @@ week: 5
 date: 2025-02-17
 ---
 
-<!--Project 1 is due this Wednesday! Homework 2 is also released.
+Project 1 is due this Wednesday! Homework 2 is also released.
 
-See [Week 5 Ed announcement](https://edstem.org/us/courses/63937/discussion/5336355){:target="\_blank"}.-->
+See [Week 5 Ed announcement](https://edstem.org/us/courses/63937/discussion/5336355){:target="\_blank"}.

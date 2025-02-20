@@ -428,14 +428,14 @@
   },"61": {
     "doc": "Home",
     "title": "Week 5 Announcement",
-    "content": "Feb 17 ",
+    "content": "Feb 17 Project 1 is due this Wednesday! Homework 2 is also released. See Week 5 Ed announcement. ",
     "url": "/sp25/",
     
     "relUrl": "/"
   },"62": {
     "doc": "Home",
     "title": "Week 4 Announcement",
-    "content": "Feb 10 Homework 1 is due this Wednesday! Project 1 is also released. See Week 4 Ed announcement. ",
+    "content": "Feb 10 Homework 1 is due this Wednesday! Project 1 is also released. See Week 5 Ed announcement. ",
     "url": "/sp25/",
     
     "relUrl": "/"
@@ -505,7 +505,7 @@
   },"72": {
     "doc": "Home",
     "title": "Week 5",
-    "content": "Tue 2/18 Lecture 9 Optimizing for Performance III Wed 2/19 Project 1 Due, 5pm Thu 2/20 Lecture 10 Data Preparation I: Structural Discussion 4 TBA Solution Fri 2/21 Project 2 Query Performance Due Wed 3/5, 5pm ",
+    "content": "Tue 2/18 Lecture 9 Optimizing for Performance III Course Notes Wed 2/19 Project 1 Due, 5pm Thu 2/20 Lecture 10 Data Preparation I: Structural Course Notes Discussion 4 Query Performance Solution, Code Fri 2/21 Project 2 Query Performance Due Wed 3/5, 5pm ",
     "url": "/sp25/#week-5",
     
     "relUrl": "/#week-5"
