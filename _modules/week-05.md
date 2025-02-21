@@ -18,7 +18,7 @@ Thu 2/20
   : Solution, [Code](http://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Fsp25-materials&urlpath=tree%2Fsp25-materials%2Fdisc%2Fdisc04%2Fdisc04.ipynb&branch=main)
 
 Fri 2/21
-: {% proj_rel 2 %} Query Performance
+: {% proj_rel 2 %} [Query Performance](https://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Fsp25-materials.git&urlpath=lab%2Ftree%2Fsp25-materials.git%2Fproj%2Fproj2&branch=main)
   : Due Wed 3/5, 5pm
 
 <!--
