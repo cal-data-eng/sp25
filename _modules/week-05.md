@@ -15,7 +15,7 @@ Thu 2/20
 : {% lec 10 %}
   : [Course Notes](https://data101.org/notes/4-data_modeling/data_models.html) 
 : {% disc 4 %} [Query Performance](https://drive.google.com/file/d/1-Obia-HHCa9Qs0kKna3d0jxwNMYlgf62/view?usp=sharing)
-  : Solution, [Code](http://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Fsp25-materials&urlpath=tree%2Fsp25-materials%2Fdisc%2Fdisc04%2Fdisc04.ipynb&branch=main)
+  : [Solution](https://drive.google.com/file/d/1n5CqGImFwlc4u6BDHjKw6ucr7rdsD4cA/view?usp=sharing), [Code](http://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Fsp25-materials&urlpath=tree%2Fsp25-materials%2Fdisc%2Fdisc04%2Fdisc04.ipynb&branch=main)
 
 Fri 2/21
 : {% proj_rel 2 %} [Query Performance](https://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Fsp25-materials.git&urlpath=lab%2Ftree%2Fsp25-materials.git%2Fproj%2Fproj2&branch=main)
