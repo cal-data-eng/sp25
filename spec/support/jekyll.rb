@@ -29,7 +29,7 @@ end
 def path_to_sym(path)
   return :index if path == '/'
 
-  path.gsub(/^\//, '').gsub(/\/$/, '').gsub('/', '-').to_sym
+  path.gsub(%r{^/}, '').gsub(%r{/$}, '').gsub(%r{/}, '-').to_sym
 end
 
 def load_sitemap

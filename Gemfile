@@ -1,6 +1,5 @@
 # frozen_string_literal: true
 
-
 source 'https://rubygems.org'
 
 # Gems at the top are used to build the site.
