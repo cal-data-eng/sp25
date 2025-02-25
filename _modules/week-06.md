@@ -6,12 +6,14 @@ Status: Active
 
 Tue 2/25
 : {% lec 11 %}
+  : [Course Notes](https://data101.org/notes/5-data_prep/structural.html) 
 
 Wed 2/26
 : {% hw_due 2 %} Due, 5pm
 
 Thu 2/27
 : {% lec 12 %}
+  : [Course Notes](https://data101.org/notes/5-data_prep/granularity.html) 
 : {% disc 5 %} TBA 
   : Solution
 
