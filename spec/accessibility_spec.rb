@@ -23,7 +23,7 @@ skipped_rules = []
 excluded_elements = [
   '[data-a11y-errors="true"]',
   # Jupyternotebooks from nbconvert
-  '[data-jp-theme-light="true"]',
+  '[data-jp-theme-light="true"]'
 ]
 
 # We must call this to ensure the build it up-to-date.
@@ -49,8 +49,8 @@ RSpec.shared_examples 'a11y tests' do
 end
 
 ALL_PAGES.each do |path|
-  if path.match(/assets\/lectures\/(lec\d\d\/)?lec\d\d(-.*)?\.html/)
-    describe "Jupyter Notebook Exports" do
+  if path.match(%r{assets/lectures/(lec\d\d/)?lec\d\d(-.*)?.html})
+    describe 'Jupyter Notebook Exports' do
       skip "skipping likely notebook file @ #{path}"
     end
     next
