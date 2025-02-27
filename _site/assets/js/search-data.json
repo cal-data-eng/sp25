@@ -519,7 +519,7 @@
   },"74": {
     "doc": "Home",
     "title": "Week 6",
-    "content": "Tue 2/25 Lecture 11 Data Preparation I: Structural Course Notes Wed 2/26 Homework 2 Due, 5pm Thu 2/27 Lecture 12 Data Preparation II: Numerical, Granularity, Window Functions Course Notes Discussion 5 TBA Solution Fri 2/28 Homework 3 Homework 3 Due Wed 3/19, 5pm ",
+    "content": "Tue 2/25 Lecture 11 Data Preparation I: Structural Course Notes Wed 2/26 Homework 2 Due, 5pm Thu 2/27 Lecture 12 Data Preparation II: Numerical, Granularity, Window Functions Course Notes Discussion 5 Data Models, Data Preparation Solution, Code Fri 2/28 Homework 3 Homework 3 Due Wed 3/19, 5pm ",
     "url": "/sp25/#week-6",
     
     "relUrl": "/#week-6"
