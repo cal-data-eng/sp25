@@ -45,10 +45,8 @@ module Jekyll
       year = date_parts[0].to_i
       month = date_parts[1].to_i
       day = date_parts[2].to_i
-
       # Construct the date manually
       lecture_date = Date.new(year, month, day)
-
       current_date = Date.today
       # add leading 0 to number if less than 10
       num_index = @number.to_i < 10 ? "0#{@number}" : @number

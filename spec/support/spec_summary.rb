@@ -42,7 +42,6 @@ def group_results(results)
   results
 end
 
-# rubocop:enable Metrics/AbcSize
 def test_failures_with_pages(summary_group)
   summary_group.transform_values { |list| list.map { |h| h[:page] } }
 end

@@ -1,7 +1,6 @@
 # DATA 101 Spring 2025
 
-[![Pages Deployment](https://github.com/berkeley-cdss/berkeley-class-site/actions/workflows/jekyll.yml/badge.svg)](https://github.com/berkeley-cdss/berkeley-class-site/actions/workflows/jekyll.yml) •
-[![a11y specs](https://github.com/berkeley-eecs/berkeley-class-site/actions/workflows/rspec.yml/badge.svg)](https://github.com/berkeley-eecs/berkeley-class-site/actions/workflows/rspec.yml)
+[![Deploy Jekyll site to Pages](https://github.com/cal-data-eng/sp25/actions/workflows/jekyll.yml/badge.svg)](https://github.com/cal-data-eng/sp25/actions/workflows/jekyll.yml) [![Run all page tests](https://github.com/cal-data-eng/sp25/actions/workflows/rspec.yml/badge.svg)](https://github.com/cal-data-eng/sp25/actions/workflows/rspec.yml)
 
 The https://data101.org/sp25/ website.
 
@@ -19,7 +18,7 @@ git clone git@github.com:YOUR_GITHUB_USERNAME/YOUR_REPO.git
 ```
 3. Install dependencies:
 ```
-cd YOUR_REPO
+cd sp25
 bundle install
 ```
 
