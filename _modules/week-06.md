@@ -15,7 +15,7 @@ Thu 2/27
 : {% lec 12 %}
   : [Course Notes](https://data101.org/notes/5-data_prep/granularity.html) 
 : {% disc 5 %} [Data Models, Data Preparation](https://drive.google.com/file/d/193C5xoDEjWHVT5f_68QnX2zrGRX7Hb_z/view?usp=sharing) 
-  : Solution, [Code](http://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Fsp25-materials&urlpath=tree%2Fsp25-materials%2Fdisc%2Fdisc05%2Fdisc05.ipynb&branch=main)
+  : [Solution](https://drive.google.com/file/d/16rYqVlPTl8b9uGNEJtd42rPV4e9KaHQu/view?usp=sharing), [Code](http://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Fsp25-materials&urlpath=tree%2Fsp25-materials%2Fdisc%2Fdisc05%2Fdisc05.ipynb&branch=main)
 
 Fri 2/28
 : {% hw_rel 3 %} [Homework 3](https://www.gradescope.com/courses/959541/assignments/5846589)
