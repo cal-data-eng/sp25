@@ -13,6 +13,7 @@ Wed 3/12
 
 Thu 3/13
 : {% lec 16 %}
+: **Discussion**{: .label} No Discussion
 
 <!--
 Thu 8/29
