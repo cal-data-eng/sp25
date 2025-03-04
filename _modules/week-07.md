@@ -6,12 +6,14 @@ Status: Active
 
 Tue 3/4
 : {% lec 13 %}
+  : [Course Notes](https://data101.org/notes/5-data_prep/granularity.html) 
 
 Wed 3/5
 : {% proj_due 2 %} Due, 5pm
 
 Thu 3/6
 : {% lec 14 %}
+  : [Course Notes](https://data101.org/notes/5-data_prep/granularity.html#window-functions) 
 : {% disc 6 %} TBA 
   : Solution
 
