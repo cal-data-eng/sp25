@@ -14,7 +14,7 @@ Wed 3/5
 Thu 3/6
 : {% lec 14 %}
   : [Course Notes](https://data101.org/notes/5-data_prep/granularity.html#window-functions) 
-: {% disc 6 %} TBA 
+: {% disc 6 %} [Window Functions, Data Granularity](https://drive.google.com/file/d/1vRQIDL4WXhDJcft4ZXfoZuBcY8y5YFg4/view?usp=sharing) 
   : Solution
 
 <!--
