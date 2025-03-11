@@ -6,7 +6,8 @@ Status: Active
 
 Tue 3/11
 : {% lec 15 %}
-    : Mid-Semester Form
+    : [Mid-Semester Form](https://docs.google.com/forms/d/e/1FAIpQLSc380Cc3VGLljZZhP2h8utnszUsCsKSKApbNvhHQ79B-UDb3Q/viewform)
+    : [Course Notes](https://data101.org/notes/5-data_prep/imputation.html)
 
 Wed 3/12
 : **Midterm**{: .label .label-exam } Midterm Exam (6-8pm)
