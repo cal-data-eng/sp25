@@ -540,14 +540,14 @@
   },"77": {
     "doc": "Home",
     "title": "Week 7",
-    "content": "Tue 3/4 Lecture 13 Data Preparation III: Outliers Course Notes Wed 3/5 Project 2 Due, 5pm Thu 3/6 Lecture 14 Data Preparation IV: Imputation, Entity Resolution Course Notes Discussion 6 TBA Solution ",
+    "content": "Tue 3/4 Lecture 13 Data Preparation III: Outliers Course Notes Wed 3/5 Project 2 Due, 5pm Thu 3/6 Lecture 14 Data Preparation IV: Imputation, Entity Resolution Course Notes Discussion 6 Window Functions, Data Granularity Solution, Code ",
     "url": "/sp25/#week-7",
     
     "relUrl": "/#week-7"
   },"78": {
     "doc": "Home",
     "title": "Week 8",
-    "content": "Tue 3/11 Lecture 15 Data Modeling II: Normalization + ER Mid-Semester Form Course Notes Wed 3/12 Midterm Midterm Exam (6-8pm) Thu 3/13 Lecture 16 No Class Discussion No Discussion ",
+    "content": "Tue 3/11 Lecture 15 Data Modeling II: Normalization + ER Course Notes Mid-Semester Form Wed 3/12 Midterm Midterm Exam (6-8pm) Thu 3/13 Lecture 16 No Class Discussion No Discussion ",
     "url": "/sp25/#week-8",
     
     "relUrl": "/#week-8"
