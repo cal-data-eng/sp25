@@ -9,10 +9,10 @@ Mon 3/31
   : Due Wed 4/9, 5pm
 
 Tue 4/1
-: {% lec 19 %}
+: {% lec 18 %}
 
 Thu 4/3
-: {% lec 20 %}
+: {% lec 19 %}
 : {% disc 8 %} TBA 
   : Solution
 

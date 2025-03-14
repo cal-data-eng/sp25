@@ -5,13 +5,13 @@ Status: Active
 ---
 
 Tue 4/5
-: {% lec 21 %}
+: {% lec 20 %}
 
 Wed 4/6
 : {% hw_due 4 %} Due, 5pm
 
 Thu 4/7
-: {% lec 22 %}
+: {% lec 21 %}
 : {% disc 9 %} TBA 
   : Solution
   

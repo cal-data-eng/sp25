@@ -13,7 +13,7 @@ Wed 3/12
 : **Midterm**{: .label .label-exam } Midterm Exam (6-8pm)
 
 Thu 3/13
-: {% lec 16 %}
+: **Lecture**{: .label} No Lecture
 : **Discussion**{: .label} No Discussion
 
 <!--

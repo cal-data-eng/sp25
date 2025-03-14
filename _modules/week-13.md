@@ -5,13 +5,13 @@ Status: Active
 ---
 
 Tue 4/15
-: {% lec 23 %}
+: {% lec 22 %}
 
 Wed 4/16
 : {% proj_due 4 %} Due, 5pm
 
 Thu 4/17
-: {% lec 24 %}
+: {% lec 23 %}
 
 Fri 4/18
 : {% hw_rel 5 %} Homework 5

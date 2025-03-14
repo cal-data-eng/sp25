@@ -1,9 +1,9 @@
 ---
 layout: lecture
 published: true
-number: 28
-date: 2025-5-1
-title: Guest Lecture, Closing Thoughts
+number: 16
+date: 2025-3-13
+title: No Class
 slido:
 recording: 
 files:

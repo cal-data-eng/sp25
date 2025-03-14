@@ -547,14 +547,14 @@
   },"78": {
     "doc": "Home",
     "title": "Week 8",
-    "content": "Tue 3/11 Lecture 15 Data Modeling II: Normalization + ER Course Notes Mid-Semester Form Wed 3/12 Midterm Midterm Exam (6-8pm) Thu 3/13 Lecture 16 No Class Discussion No Discussion ",
+    "content": "Tue 3/11 Lecture 15 Data Modeling II: Normalization + ER Course Notes Mid-Semester Form Wed 3/12 Midterm Midterm Exam (6-8pm) Thu 3/13 Lecture No Lecture Discussion No Discussion ",
     "url": "/sp25/#week-8",
     
     "relUrl": "/#week-8"
   },"79": {
     "doc": "Home",
     "title": "Week 9",
-    "content": "Tue 3/18 Lecture 17 Semistructured Data: NoSQL, JSON, XML Wed 3/19 Homework 3 Due, 5pm Thu 3/20 Lecture 18 MongoDB I Discussion 7 TBA Solution Fri 3/21 Project 3 Data Transformation Due Fri 4/4, 5pm ",
+    "content": "Tue 3/18 Lecture 16 No Class Wed 3/19 Homework 3 Due, 5pm Thu 3/20 Lecture 17 Semistructured Data: NoSQL, JSON, XML Discussion 7 TBA Solution Fri 3/21 Project 3 Data Transformation Due Fri 4/4, 5pm ",
     "url": "/sp25/#week-9",
     
     "relUrl": "/#week-9"
@@ -568,35 +568,35 @@
   },"81": {
     "doc": "Home",
     "title": "Week 11",
-    "content": "Mon 3/31 Homework 4 Homework 4 Due Wed 4/9, 5pm Tue 4/1 Lecture 19 MongoDB II Thu 4/3 Lecture 20 Data Ops and Pipelines Discussion 8 TBA Solution Fri 4/4 Project 3 Due, 5pm Project 4 Mongo Due Wed 4/16, 5pm Project 5 Optional* Final Project Checkpoint due Mon 4/21, 5pm Final Report due Fri 5/2, 5pm ",
+    "content": "Mon 3/31 Homework 4 Homework 4 Due Wed 4/9, 5pm Tue 4/1 Lecture 18 MongoDB I Thu 4/3 Lecture 19 MongoDB II Discussion 8 TBA Solution Fri 4/4 Project 3 Due, 5pm Project 4 Mongo Due Wed 4/16, 5pm Project 5 Optional* Final Project Checkpoint due Mon 4/21, 5pm Final Report due Fri 5/2, 5pm ",
     "url": "/sp25/#week-11",
     
     "relUrl": "/#week-11"
   },"82": {
     "doc": "Home",
     "title": "Week 12",
-    "content": "Tue 4/5 Lecture 21 MapReduce, Sampling Wed 4/6 Homework 4 Due, 5pm Thu 4/7 Lecture 22 Transactions and TCL Discussion 9 TBA Solution ",
+    "content": "Tue 4/5 Lecture 20 Data Ops and Pipelines Wed 4/6 Homework 4 Due, 5pm Thu 4/7 Lecture 21 MapReduce, Sampling Discussion 9 TBA Solution ",
     "url": "/sp25/#week-12",
     
     "relUrl": "/#week-12"
   },"83": {
     "doc": "Home",
     "title": "Week 13",
-    "content": "Tue 4/15 Lecture 23 Transactions, BI, OLAP Wed 4/16 Project 4 Due, 5pm Thu 4/17 Lecture 24 Spreadsheets Fri 4/18 Homework 5 Homework 5 Due Wed 4/30, 5pm ",
+    "content": "Tue 4/15 Lecture 22 Transactions and TCL Wed 4/16 Project 4 Due, 5pm Thu 4/17 Lecture 23 Transactions, BI, OLAP Fri 4/18 Homework 5 Homework 5 Due Wed 4/30, 5pm ",
     "url": "/sp25/#week-13",
     
     "relUrl": "/#week-13"
   },"84": {
     "doc": "Home",
     "title": "Week 14",
-    "content": "Mon 4/21 Project 5 Checkpoint due, 5pm Tue 4/22 Lecture 25 Parallel and Distributed Computing, CAP Theorem, VMs Thu 4/24 Lecture 26 Graphs Databases and Knowledge Bases Discussion 10 TBA Solution ",
+    "content": "Mon 4/21 Project 5 Checkpoint due, 5pm Tue 4/22 Lecture 24 Spreadsheets Thu 4/24 Lecture 25 Parallel and Distributed Computing, CAP Theorem, VMs Discussion 10 TBA Solution ",
     "url": "/sp25/#week-14",
     
     "relUrl": "/#week-14"
   },"85": {
     "doc": "Home",
     "title": "Week 15",
-    "content": "Tue 4/29 Lecture 27 TBA End-of-Semester Form Wed 4/30 Homework 5 Due, 5pm Thu 5/1 Lecture 28 Guest Lecture, Closing Thoughts Fri 5/2 Project 5 Final Report due, 5pm ",
+    "content": "Tue 4/29 Lecture 26 Graphs Databases and Knowledge Bases End-of-Semester Form Wed 4/30 Homework 5 Due, 5pm Thu 5/1 Lecture 27 TBA Fri 5/2 Project 5 Final Report due, 5pm ",
     "url": "/sp25/#week-15",
     
     "relUrl": "/#week-15"
