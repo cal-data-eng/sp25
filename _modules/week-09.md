@@ -5,13 +5,13 @@ Status: Active
 ---
 
 Tue 3/18
-: {% lec 16 %}
+: **Lecture**{: .label} No Lecture
 
 Wed 3/19
 : {% hw_due 3 %} Due, 5pm
 
 Thu 3/20
-: {% lec 17 %}
+: {% lec 16 %}
 : {% disc 7 %} TBA 
   : Solution
 

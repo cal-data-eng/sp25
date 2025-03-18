@@ -427,425 +427,432 @@
     "relUrl": "/#announcements"
   },"61": {
     "doc": "Home",
+    "title": "Week 9 Announcement",
+    "content": "Mar 17 Homework 3 is due this Wednesday! Project 3 will also be released this week. See Week 9 Ed announcement. ",
+    "url": "/sp25/",
+    
+    "relUrl": "/"
+  },"62": {
+    "doc": "Home",
     "title": "Week 8 Announcement",
     "content": "Mar 10 The midterm exam is this week! Be sure to read the Midterm Logistics post. Homework 3 was also released and is due next Wednesday. See Week 8 Ed announcement. ",
     "url": "/sp25/",
     
     "relUrl": "/"
-  },"62": {
+  },"63": {
     "doc": "Home",
     "title": "Week 7 Announcement",
     "content": "Mar 3 Project 2 is due this Wednesday! Be sure to read the Midterm Logistics post as well. See Week 7 Ed announcement. ",
     "url": "/sp25/",
     
     "relUrl": "/"
-  },"63": {
+  },"64": {
     "doc": "Home",
     "title": "Week 6 Announcement",
     "content": "Feb 24 Homework 2 is due this Wednesday! Project 2 is also released. See Week 6 Ed announcement. ",
     "url": "/sp25/",
     
     "relUrl": "/"
-  },"64": {
+  },"65": {
     "doc": "Home",
     "title": "Week 5 Announcement",
     "content": "Feb 17 Project 1 is due this Wednesday! Homework 2 is also released. See Week 5 Ed announcement. ",
     "url": "/sp25/",
     
     "relUrl": "/"
-  },"65": {
+  },"66": {
     "doc": "Home",
     "title": "Week 4 Announcement",
     "content": "Feb 10 Homework 1 is due this Wednesday! Project 1 is also released. See Week 5 Ed announcement. ",
     "url": "/sp25/",
     
     "relUrl": "/"
-  },"66": {
+  },"67": {
     "doc": "Home",
     "title": "Week 3 Announcement",
     "content": "Feb 3 Project 0 is due this Friday and Homework 1 is released! . See Week 3 Ed announcement. ",
     "url": "/sp25/",
     
     "relUrl": "/"
-  },"67": {
+  },"68": {
     "doc": "Home",
     "title": "Week 2 Announcement",
     "content": "Jan 27 . | Welcome to back to the second week of classes! See Week 02 Announcements on Ed. | Office hours start this week at Warren 101B! | We’ve released the Data Scholars Interest Form | Project 0 is due Friday 2/7 at 5pm. | Homework 1 will be released on Gradescope on Friday 1/31 and is due on Wednesday 2/12 at 5pm. | Lecture attendance starts this week! | Discussion sections will start on Thursday and Friday. You can find specific hours on the calendar. | . ",
     "url": "/sp25/",
     
     "relUrl": "/"
-  },"68": {
+  },"69": {
     "doc": "Home",
     "title": "Week 1 Announcement",
     "content": "Jan 20 . | Welcome to Data 101! | Sections start next Thursday 1/30 and Friday 1/31. Join us for a review of SQL, and meet some study partners! . | Sections times/locations will be updated on the calendar by the end of the weekend calendar | . | Office hours start next week! You can find the times and locations on the calendar. | Please make sure to check the “Welcome to Data C101 / Info 258!” post on Ed! This details the Pre-Semester survey and other logistics. | Check out our cool new logo (top left) designed by one of our TA’s, Li! | . ",
     "url": "/sp25/",
     
     "relUrl": "/"
-  },"69": {
+  },"70": {
     "doc": "Home",
     "title": "Week 0 Announcement",
     "content": "Jan 18 Welcome to data engineering! Check back on this site for more updates . ",
     "url": "/sp25/",
     
     "relUrl": "/"
-  },"70": {
+  },"71": {
     "doc": "Home",
     "title": "Schedule",
     "content": " ",
     "url": "/sp25/#schedule",
     
     "relUrl": "/#schedule"
-  },"71": {
+  },"72": {
     "doc": "Home",
     "title": "Week 1",
     "content": "Tue 1/21 Lecture 1 Introduction, Data Engineering Lifecycle Pre-Semester Form Thu 1/23 Lecture 2 SQL Review Course Notes Fri 1/24 Project 0 SQL Review Due Fri 2/7, 5pm ",
     "url": "/sp25/#week-1",
     
     "relUrl": "/#week-1"
-  },"72": {
+  },"73": {
     "doc": "Home",
     "title": "Week 2",
     "content": "Tue 1/28 Lecture 3 SQL Review (continued), Relational Model &amp; Algebra Course Notes Thu 1/30 Lecture 4 Relational Algebra (continued), CTEs, Views, Subqueries Course Notes Discussion 1 SQL Review Code, Solution Fri 1/31 Homework 1 Homework 1 Due Wed 2/12, 5pm ",
     "url": "/sp25/#week-2",
     
     "relUrl": "/#week-2"
-  },"73": {
+  },"74": {
     "doc": "Home",
     "title": "Week 3",
     "content": "Tue 2/4 Lecture 5 DML, DDL, Referential Integrity, Constraints Course Notes Thu 2/6 Lecture 6 Bits/memory model, Performance Tuning, Index Selection Course Notes Discussion 2 Relational Algebra, Subqueries, CTEs, Joins Solution Fri 2/7 Project 0 Due, 5pm Project 1 SQL Due Wed 2/19, 5pm ",
     "url": "/sp25/#week-3",
     
     "relUrl": "/#week-3"
-  },"74": {
+  },"75": {
     "doc": "Home",
     "title": "Week 4",
     "content": "Tue 2/11 Lecture 7 Optimizing for Performance I Course Notes Wed 2/12 Homework 1 Due, 5pm Thu 2/13 Lecture 8 Optimizing for Performance II Course Notes Discussion 3 DML/DDL, Bits Conversion, Query Performance Solution, Code Fri 2/14 Homework 2 Homework 2 Due Wed 2/26, 5pm ",
     "url": "/sp25/#week-4",
     
     "relUrl": "/#week-4"
-  },"75": {
+  },"76": {
     "doc": "Home",
     "title": "Week 5",
     "content": "Tue 2/18 Lecture 9 Optimizing for Performance III Course Notes Wed 2/19 Project 1 Due, 5pm Thu 2/20 Lecture 10 Data Modeling I Course Notes Discussion 4 Query Performance Solution, Code Fri 2/21 Project 2 Query Performance Due Wed 3/5, 5pm ",
     "url": "/sp25/#week-5",
     
     "relUrl": "/#week-5"
-  },"76": {
+  },"77": {
     "doc": "Home",
     "title": "Week 6",
     "content": "Tue 2/25 Lecture 11 Data Preparation I: Structural Course Notes Wed 2/26 Homework 2 Due, 5pm Thu 2/27 Lecture 12 Data Preparation II: Numerical, Granularity, Window Functions Course Notes Discussion 5 Data Models, Data Preparation Solution, Code Fri 2/28 Homework 3 Homework 3 Due Wed 3/19, 5pm ",
     "url": "/sp25/#week-6",
     
     "relUrl": "/#week-6"
-  },"77": {
+  },"78": {
     "doc": "Home",
     "title": "Week 7",
     "content": "Tue 3/4 Lecture 13 Data Preparation III: Outliers Course Notes Wed 3/5 Project 2 Due, 5pm Thu 3/6 Lecture 14 Data Preparation IV: Imputation, Entity Resolution Course Notes Discussion 6 Window Functions, Data Granularity Solution, Code ",
     "url": "/sp25/#week-7",
     
     "relUrl": "/#week-7"
-  },"78": {
+  },"79": {
     "doc": "Home",
     "title": "Week 8",
-    "content": "Tue 3/11 Lecture 15 Data Modeling II: Normalization + ER Course Notes Mid-Semester Form Wed 3/12 Midterm Midterm Exam (6-8pm) Thu 3/13 Lecture No Lecture Discussion No Discussion ",
+    "content": "Tue 3/11 Lecture 15 Data Preparation IV: Imputation, Entity Resolution (Cont.) Course Notes Mid-Semester Form Wed 3/12 Midterm Midterm Exam (6-8pm) Thu 3/13 Lecture No Lecture Discussion No Discussion ",
     "url": "/sp25/#week-8",
     
     "relUrl": "/#week-8"
-  },"79": {
+  },"80": {
     "doc": "Home",
     "title": "Week 9",
-    "content": "Tue 3/18 Lecture 16 Semistructured Data: NoSQL, JSON, XML Wed 3/19 Homework 3 Due, 5pm Thu 3/20 Lecture 17 MongoDB I Discussion 7 TBA Solution Fri 3/21 Project 3 Data Transformation Due Fri 4/4, 5pm ",
+    "content": "Tue 3/18 Lecture No Lecture Wed 3/19 Homework 3 Due, 5pm Thu 3/20 Lecture 16 Data Modeling II: Normalization + ER Discussion 7 TBA Solution Fri 3/21 Project 3 Data Transformation Due Fri 4/4, 5pm ",
     "url": "/sp25/#week-9",
     
     "relUrl": "/#week-9"
-  },"80": {
+  },"81": {
     "doc": "Home",
     "title": "Week 10",
     "content": "All Week Spring Break ",
     "url": "/sp25/#week-10",
     
     "relUrl": "/#week-10"
-  },"81": {
+  },"82": {
     "doc": "Home",
     "title": "Week 11",
-    "content": "Mon 3/31 Homework 4 Homework 4 Due Wed 4/9, 5pm Tue 4/1 Lecture 18 MongoDB II Thu 4/3 Lecture 19 Data Ops and Pipelines Discussion 8 TBA Solution Fri 4/4 Project 3 Due, 5pm Project 4 Mongo Due Wed 4/16, 5pm Project 5 Optional* Final Project Checkpoint due Mon 4/21, 5pm Final Report due Fri 5/2, 5pm ",
+    "content": "Mon 3/31 Homework 4 Homework 4 Due Wed 4/9, 5pm Tue 4/1 Lecture 17 Semistructured Data: NoSQL, JSON, XML Thu 4/3 Lecture 18 MongoDB I Discussion 8 TBA Solution Fri 4/4 Project 3 Due, 5pm Project 4 Mongo Due Wed 4/16, 5pm Project 5 Optional* Final Project Checkpoint due Mon 4/21, 5pm Final Report due Fri 5/2, 5pm ",
     "url": "/sp25/#week-11",
     
     "relUrl": "/#week-11"
-  },"82": {
+  },"83": {
     "doc": "Home",
     "title": "Week 12",
-    "content": "Tue 4/5 Lecture 20 MapReduce, Sampling Wed 4/6 Homework 4 Due, 5pm Thu 4/7 Lecture 21 Transactions and TCL Discussion 9 TBA Solution ",
+    "content": "Tue 4/5 Lecture 19 MongoDB II Wed 4/6 Homework 4 Due, 5pm Thu 4/7 Lecture 20 Data Ops and Pipelines Discussion 9 TBA Solution ",
     "url": "/sp25/#week-12",
     
     "relUrl": "/#week-12"
-  },"83": {
+  },"84": {
     "doc": "Home",
     "title": "Week 13",
-    "content": "Tue 4/15 Lecture 22 Transactions, BI, OLAP Wed 4/16 Project 4 Due, 5pm Thu 4/17 Lecture 23 Spreadsheets Fri 4/18 Homework 5 Homework 5 Due Wed 4/30, 5pm ",
+    "content": "Tue 4/15 Lecture 21 MapReduce, Sampling Wed 4/16 Project 4 Due, 5pm Thu 4/17 Lecture 22 Transactions, BI, OLAP Fri 4/18 Homework 5 Homework 5 Due Wed 4/30, 5pm ",
     "url": "/sp25/#week-13",
     
     "relUrl": "/#week-13"
-  },"84": {
+  },"85": {
     "doc": "Home",
     "title": "Week 14",
-    "content": "Mon 4/21 Project 5 Checkpoint due, 5pm Tue 4/22 Lecture 24 Parallel and Distributed Computing, CAP Theorem, VMs Thu 4/24 Lecture 25 Graphs Databases and Knowledge Bases Discussion 10 TBA Solution ",
+    "content": "Mon 4/21 Project 5 Checkpoint due, 5pm Tue 4/22 Lecture 23 Transactions, BI, OLAP Thu 4/24 Lecture 24 Spreadsheets Discussion 10 TBA Solution ",
     "url": "/sp25/#week-14",
     
     "relUrl": "/#week-14"
-  },"85": {
+  },"86": {
     "doc": "Home",
     "title": "Week 15",
-    "content": "Tue 4/29 Lecture 26 TBA End-of-Semester Form Wed 4/30 Homework 5 Due, 5pm Thu 5/1 Lecture 27 Guest Lecture, Closing Thoughts Fri 5/2 Project 5 Final Report due, 5pm ",
+    "content": "Tue 4/29 Lecture 25 Parallel and Distributed Computing, CAP Theorem, VMs End-of-Semester Form Wed 4/30 Homework 5 Due, 5pm Thu 5/1 Lecture 26 Graphs Databases and Knowledge Bases Fri 5/2 Project 5 Final Report due, 5pm ",
     "url": "/sp25/#week-15",
     
     "relUrl": "/#week-15"
-  },"86": {
+  },"87": {
     "doc": "Home",
     "title": "RRR Week",
     "content": "All Week RRR Week ",
     "url": "/sp25/#rrr-week",
     
     "relUrl": "/#rrr-week"
-  },"87": {
+  },"88": {
     "doc": "Home",
     "title": "Finals Week",
     "content": "Wed 5/14 Final Final Exam (11:30am-2:30pm) ",
     "url": "/sp25/#finals-week",
     
     "relUrl": "/#finals-week"
-  },"88": {
+  },"89": {
     "doc": "Home",
     "title": "Home",
     "content": " ",
     "url": "/sp25/",
     
     "relUrl": "/"
-  },"89": {
+  },"90": {
     "doc": "Lecture 18",
     "title": "Lecture 18: Mongo DB II¶",
     "content": "In [1]: import json import pymongo import pprint . In [2]: # instead of saving a full copy of existing data, # just symlink to previous lecture. a bit hacky, but saves space! !ln -sf ../lec17-mongo_i/data data . In [2]: # this is a utility function we define so that find_all() prints nicely def pretty_print(output_collection, n_to_print=3): \"\"\" note if n_to_print is -1, this print everything \"\"\" for i, doc in enumerate(output_collection): pprint.pprint(doc) # nicely formats each document if i+1 == n_to_print: return . In [ ]: . ",
-    "url": "/sp25/assets/lectures/lec18/#Lecture-18:-Mongo-DB-II",
+    "url": "/sp25/assets/lectures/lec18/lec18/#Lecture-18:-Mongo-DB-II",
     
-    "relUrl": "/assets/lectures/lec18/#Lecture-18:-Mongo-DB-II"
-  },"90": {
+    "relUrl": "/assets/lectures/lec18/lec18/#Lecture-18:-Mongo-DB-II"
+  },"91": {
     "doc": "Lecture 18",
     "title": "Aggregation Queries¶",
     "content": "Zips JSON from the MongoDB Aggregation Tutorial: https://www.mongodb.com/docs/manual/tutorial/aggregation-zip-code-data-set/ . ",
-    "url": "/sp25/assets/lectures/lec18/#Aggregation-Queries",
+    "url": "/sp25/assets/lectures/lec18/lec18/#Aggregation-Queries",
     
-    "relUrl": "/assets/lectures/lec18/#Aggregation-Queries"
-  },"91": {
+    "relUrl": "/assets/lectures/lec18/lec18/#Aggregation-Queries"
+  },"92": {
     "doc": "Lecture 18",
     "title": "Load zips.json into new local.zips¶",
     "content": "For the sake of simplicity, we'll make a new collection zips in a new aggquerydb database. In [3]: # reimport/redefine as needed import json import pymongo import pprint def pretty_print(output_collection, n_to_print=3): \"\"\" note if n_to_print is -1, this print everything \"\"\" for i, doc in enumerate(output_collection): pprint.pprint(doc) # nicely formats each document if i+1 == n_to_print: return . In [5]: client = pymongo.MongoClient('mongodb://localhost') client.list_database_names() . Out[5]: ['admin', 'config', 'local', 'nobel_prizes'] . In [6]: # run this cell to make the new collection # and insert zipcode documents client.drop_database('aggquerydb') # if already exists db = client.aggquerydb with open('data/zips.json', encoding='utf-8') as f: for line in f.readlines(): db.zips.insert_one(json.loads(line)) . In [7]: db.zips.count_documents({}) . Out[7]: 29353 . ",
-    "url": "/sp25/assets/lectures/lec18/#Load-zips.json-into-new-local.zips",
+    "url": "/sp25/assets/lectures/lec18/lec18/#Load-zips.json-into-new-local.zips",
     
-    "relUrl": "/assets/lectures/lec18/#Load-zips.json-into-new-local.zips"
-  },"92": {
+    "relUrl": "/assets/lectures/lec18/lec18/#Load-zips.json-into-new-local.zips"
+  },"93": {
     "doc": "Lecture 18",
     "title": "$group¶",
     "content": "In [7]: # Just the grouping, no filtering output = db.zips.aggregate( [ { \"$group\": { \"_id\": \"$state\", \"totalPop\": { \"$sum\": \"$pop\" } } }, ] ) pretty_print(output, n_to_print=5) . {'_id': 'ND', 'totalPop': 638272} {'_id': 'AR', 'totalPop': 2350725} {'_id': 'HI', 'totalPop': 1108229} {'_id': 'WV', 'totalPop': 1793146} {'_id': 'TX', 'totalPop': 16984601} . In [9]: output = db.zips.aggregate( [ { \"$group\": { \"_id\": \"$state\", \"totalPop\": { \"$sum\": \"$pop\" } } }, { \"$match\": { \"totalPop\": { \"$gte\": 15000000 } } }, { \"$sort\" : { \"totalPop\" : -1 } } ] ) pretty_print(output, n_to_print=10) . {'_id': 'CA', 'totalPop': 29754890} {'_id': 'NY', 'totalPop': 17990402} {'_id': 'TX', 'totalPop': 16984601} . ",
-    "url": "/sp25/assets/lectures/lec18/#$group",
+    "url": "/sp25/assets/lectures/lec18/lec18/#$group",
     
-    "relUrl": "/assets/lectures/lec18/#$group"
-  },"93": {
+    "relUrl": "/assets/lectures/lec18/lec18/#$group"
+  },"94": {
     "doc": "Lecture 18",
     "title": "Aggregation Queries: Unwind/Lookup¶",
     "content": "Make a new collection, inventory. In [10]: db = client.aggquerydb # stay in same database db.drop_collection('inventory') # recreate as needed db.inventory.insert_many( [ { \"item\": \"journal\", \"tags\": [\"blank\", \"red\"], \"dim\": [ 14, 21 ], \"instock\": [ { \"loc\": \"A\", \"qty\": 5 }, { \"loc\": \"C\", \"qty\": 15 } ] }, { \"item\": \"notebook\", \"tags\": [\"red\", \"blank\"], \"dim\": [ 14, 21 ], \"instock\": [ { \"loc\": \"C\", \"qty\": 5 } ] }, { \"item\": \"paper\", \"tags\": [\"red\", \"blank\", \"plain\"], \"dim\": [ 14, 21 ], \"instock\": [ { \"loc\": \"A\", \"qty\": 60 }, { \"loc\": \"B\", \"qty\": 15 } ] }, { \"item\": \"planner\", \"tags\": [\"blank\", \"red\"], \"dim\": [ 22.85, 30 ] , \"instock\": [ { \"loc\": \"A\", \"qty\": 40 }, { \"loc\": \"B\", \"qty\": 5 } ] }, { \"item\": \"postcard\", \"tags\": [\"blue\"], \"dim\": [ 10, 15.25 ], \"instock\": [ { \"loc\": \"E\", \"qty\": 15 }, { \"loc\": \"D\", \"qty\": 35 } ] } ]); . In [ ]: . In [11]: pretty_print(db.inventory.find({})) . {'_id': ObjectId('6723bcb2c96a1d9cd406ab20'), 'dim': [14, 21], 'instock': [{'loc': 'A', 'qty': 5}, {'loc': 'C', 'qty': 15}], 'item': 'journal', 'tags': ['blank', 'red']} {'_id': ObjectId('6723bcb2c96a1d9cd406ab21'), 'dim': [14, 21], 'instock': [{'loc': 'C', 'qty': 5}], 'item': 'notebook', 'tags': ['red', 'blank']} {'_id': ObjectId('6723bcb2c96a1d9cd406ab22'), 'dim': [14, 21], 'instock': [{'loc': 'A', 'qty': 60}, {'loc': 'B', 'qty': 15}], 'item': 'paper', 'tags': ['red', 'blank', 'plain']} . ",
-    "url": "/sp25/assets/lectures/lec18/#Aggregation-Queries:-Unwind/Lookup",
+    "url": "/sp25/assets/lectures/lec18/lec18/#Aggregation-Queries:-Unwind/Lookup",
     
-    "relUrl": "/assets/lectures/lec18/#Aggregation-Queries:-Unwind/Lookup"
-  },"94": {
+    "relUrl": "/assets/lectures/lec18/lec18/#Aggregation-Queries:-Unwind/Lookup"
+  },"95": {
     "doc": "Lecture 18",
     "title": "Unwind example¶",
     "content": "In [12]: # Notice, tags is no longer an array output = db.inventory.aggregate( [ { \"$unwind\" : \"$tags\" } ] ) pretty_print(output, n_to_print=4) . {'_id': ObjectId('6723bcb2c96a1d9cd406ab20'), 'dim': [14, 21], 'instock': [{'loc': 'A', 'qty': 5}, {'loc': 'C', 'qty': 15}], 'item': 'journal', 'tags': 'blank'} {'_id': ObjectId('6723bcb2c96a1d9cd406ab20'), 'dim': [14, 21], 'instock': [{'loc': 'A', 'qty': 5}, {'loc': 'C', 'qty': 15}], 'item': 'journal', 'tags': 'red'} {'_id': ObjectId('6723bcb2c96a1d9cd406ab21'), 'dim': [14, 21], 'instock': [{'loc': 'C', 'qty': 5}], 'item': 'notebook', 'tags': 'red'} {'_id': ObjectId('6723bcb2c96a1d9cd406ab21'), 'dim': [14, 21], 'instock': [{'loc': 'C', 'qty': 5}], 'item': 'notebook', 'tags': 'blank'} . In [13]: output = db.inventory.aggregate( [ { \"$unwind\" : \"$tags\" }, { \"$project\" : {\"_id\" : 0, \"instock\": 0}} ] ) pretty_print(output, n_to_print=-1) . {'dim': [14, 21], 'item': 'journal', 'tags': 'blank'} {'dim': [14, 21], 'item': 'journal', 'tags': 'red'} {'dim': [14, 21], 'item': 'notebook', 'tags': 'red'} {'dim': [14, 21], 'item': 'notebook', 'tags': 'blank'} {'dim': [14, 21], 'item': 'paper', 'tags': 'red'} {'dim': [14, 21], 'item': 'paper', 'tags': 'blank'} {'dim': [14, 21], 'item': 'paper', 'tags': 'plain'} {'dim': [22.85, 30], 'item': 'planner', 'tags': 'blank'} {'dim': [22.85, 30], 'item': 'planner', 'tags': 'red'} {'dim': [10, 15.25], 'item': 'postcard', 'tags': 'blue'} . In [14]: output = db.inventory.aggregate( [ { \"$unwind\" : \"$instock\" }, { \"$group\" : { \"_id\" : \"$item\", \"totalqty\" : {\"$sum\" : \"$instock.qty\"}}} ] ) pretty_print(output, n_to_print=-1) . {'_id': 'planner', 'totalqty': 45} {'_id': 'journal', 'totalqty': 20} {'_id': 'postcard', 'totalqty': 50} {'_id': 'paper', 'totalqty': 75} {'_id': 'notebook', 'totalqty': 5} . In [16]: output = db.inventory.aggregate( [ { \"$lookup\" : { \"from\" : \"inventory\", \"localField\": \"instock.loc\", \"foreignField\": \"instock.loc\", \"as\":\"otheritems\"} }, { \"$project\" : {\"_id\" : 0, \"tags\" : 0, \"dim\" : 0, \"otheritems._id\": 0} } ] ) pretty_print(output, n_to_print=2) . {'instock': [{'loc': 'A', 'qty': 5}, {'loc': 'C', 'qty': 15}], 'item': 'journal', 'otheritems': [{'dim': [14, 21], 'instock': [{'loc': 'A', 'qty': 5}, {'loc': 'C', 'qty': 15}], 'item': 'journal', 'tags': ['blank', 'red']}, {'dim': [14, 21], 'instock': [{'loc': 'C', 'qty': 5}], 'item': 'notebook', 'tags': ['red', 'blank']}, {'dim': [14, 21], 'instock': [{'loc': 'A', 'qty': 60}, {'loc': 'B', 'qty': 15}], 'item': 'paper', 'tags': ['red', 'blank', 'plain']}, {'dim': [22.85, 30], 'instock': [{'loc': 'A', 'qty': 40}, {'loc': 'B', 'qty': 5}], 'item': 'planner', 'tags': ['blank', 'red']}]} {'instock': [{'loc': 'C', 'qty': 5}], 'item': 'notebook', 'otheritems': [{'dim': [14, 21], 'instock': [{'loc': 'A', 'qty': 5}, {'loc': 'C', 'qty': 15}], 'item': 'journal', 'tags': ['blank', 'red']}, {'dim': [14, 21], 'instock': [{'loc': 'C', 'qty': 5}], 'item': 'notebook', 'tags': ['red', 'blank']}]} . ",
-    "url": "/sp25/assets/lectures/lec18/#Unwind-example",
+    "url": "/sp25/assets/lectures/lec18/lec18/#Unwind-example",
     
-    "relUrl": "/assets/lectures/lec18/#Unwind-example"
-  },"95": {
+    "relUrl": "/assets/lectures/lec18/lec18/#Unwind-example"
+  },"96": {
     "doc": "Lecture 18",
     "title": "Multiple Attribute Grouping¶",
     "content": "In [17]: # reimport/redefine as needed import json import pymongo import pprint def pretty_print(output_collection, n_to_print=3): \"\"\" note if n_to_print is -1, this print everything \"\"\" for i, doc in enumerate(output_collection): pprint.pprint(doc) # nicely formats each document if i+1 == n_to_print: return . In [19]: client = pymongo.MongoClient('mongodb://localhost') client.list_database_names() . Out[19]: ['admin', 'aggquerydb', 'config', 'local', 'nobel_prizes'] . In [20]: db = client.aggquerydb . In [24]: db.zips.count_documents({}) . Out[24]: 29353 . In [18]: db.zips.find_one() . Out[18]: {'_id': '01001', 'city': 'AGAWAM', 'loc': [-72.622739, 42.070206], 'pop': 15338, 'state': 'MA'} . | What is this doing? | . In [19]: # Break things down by steps if necessary. output = db.zips.aggregate( [ { \"$group\": { \"_id\": { \"state\": \"$state\", \"city\": \"$city\" }, \"pop\": { \"$sum\": \"$pop\" } } } ] ) pretty_print(output, n_to_print=10) . {'_id': {'city': 'VALMEYER', 'state': 'IL'}, 'pop': 1841} {'_id': {'city': 'PIEDMONT', 'state': 'MO'}, 'pop': 3719} {'_id': {'city': 'HOPKINSVILLE', 'state': 'KY'}, 'pop': 39331} {'_id': {'city': 'MINIER', 'state': 'IL'}, 'pop': 1483} {'_id': {'city': 'PARAMUS', 'state': 'NJ'}, 'pop': 25085} {'_id': {'city': 'SEVERNA PARK', 'state': 'MD'}, 'pop': 23392} {'_id': {'city': 'HUNTINGTON', 'state': 'AR'}, 'pop': 2608} {'_id': {'city': 'LUTHER', 'state': 'OK'}, 'pop': 2111} {'_id': {'city': 'STATE CENTER', 'state': 'IA'}, 'pop': 1618} {'_id': {'city': 'TAFT', 'state': 'OK'}, 'pop': 1822} . In [20]: output = db.zips.aggregate( [ { \"$group\": { \"_id\": { \"state\": \"$state\", \"city\": \"$city\" }, \"pop\": { \"$sum\": \"$pop\" } } }, { \"$group\": { \"_id\": \"$_id.state\", \"avgCityPop\": { \"$avg\": \"$pop\" } } } ] ) pretty_print(output, n_to_print=10) . {'_id': 'NY', 'avgCityPop': 13131.680291970803} {'_id': 'MT', 'avgCityPop': 2593.987012987013} {'_id': 'MO', 'avgCityPop': 5672.195338512764} {'_id': 'CO', 'avgCityPop': 9981.075757575758} {'_id': 'CA', 'avgCityPop': 27756.42723880597} {'_id': 'KY', 'avgCityPop': 4767.164721141375} {'_id': 'OK', 'avgCityPop': 6155.743639921722} {'_id': 'NV', 'avgCityPop': 18209.590909090908} {'_id': 'MD', 'avgCityPop': 12615.775725593667} {'_id': 'DC', 'avgCityPop': 303450.0} . | What is this doing? | . In [25]: output = db.zips.aggregate( [ { \"$group\": { \"_id\": { \"state\": \"$state\", \"city\": \"$city\" }, \"pop\": { \"$sum\": \"$pop\" } } }, { \"$sort\": { \"pop\": -1 } }, { \"$group\": { \"_id\" : \"$_id.state\", \"bigCity\": { \"$first\": \"$_id.city\" }, \"bigPop\": { \"$first\": \"$pop\" } } }, { \"$sort\" : {\"bigPop\" : -1} }, { \"$project\" : {\"bigPop\" : 0} } ] ) pretty_print(output, n_to_print=10) . {'_id': 'IL', 'bigCity': 'CHICAGO'} {'_id': 'NY', 'bigCity': 'BROOKLYN'} {'_id': 'CA', 'bigCity': 'LOS ANGELES'} {'_id': 'TX', 'bigCity': 'HOUSTON'} {'_id': 'PA', 'bigCity': 'PHILADELPHIA'} {'_id': 'MI', 'bigCity': 'DETROIT'} {'_id': 'AZ', 'bigCity': 'PHOENIX'} {'_id': 'FL', 'bigCity': 'MIAMI'} {'_id': 'MD', 'bigCity': 'BALTIMORE'} {'_id': 'TN', 'bigCity': 'MEMPHIS'} . In [ ]: . | What is this doing? | . In [27]: output = db.zips.aggregate( [ { \"$group\": { \"_id\": { \"state\": \"$state\", \"city\": \"$city\" }, \"pop\": { \"$sum\": \"$pop\" } } }, { \"$sort\": { \"pop\": -1 } }, { \"$group\": { \"_id\" : \"$_id.state\", \"bigCity\": { \"$first\": \"$_id.city\" }, \"bigPop\": { \"$first\": \"$pop\" } } }, { \"$sort\" : {\"bigPop\" : -1} }, { \"$project\" : { \"_id\" : 0, \"state\" : \"$_id\", \"bigCityDeets\": { \"name\": \"$bigCity\", \"pop\": \"$bigPop\" } } } ] ) pretty_print(output, n_to_print=10) . {'bigCityDeets': {'name': 'CHICAGO', 'pop': 2452177}, 'state': 'IL'} {'bigCityDeets': {'name': 'BROOKLYN', 'pop': 2300504}, 'state': 'NY'} {'bigCityDeets': {'name': 'LOS ANGELES', 'pop': 2102295}, 'state': 'CA'} {'bigCityDeets': {'name': 'HOUSTON', 'pop': 2095918}, 'state': 'TX'} {'bigCityDeets': {'name': 'PHILADELPHIA', 'pop': 1610956}, 'state': 'PA'} {'bigCityDeets': {'name': 'DETROIT', 'pop': 963243}, 'state': 'MI'} {'bigCityDeets': {'name': 'PHOENIX', 'pop': 890853}, 'state': 'AZ'} {'bigCityDeets': {'name': 'MIAMI', 'pop': 825232}, 'state': 'FL'} {'bigCityDeets': {'name': 'BALTIMORE', 'pop': 733081}, 'state': 'MD'} {'bigCityDeets': {'name': 'MEMPHIS', 'pop': 632837}, 'state': 'TN'} . In [ ]: . ",
-    "url": "/sp25/assets/lectures/lec18/#Multiple-Attribute-Grouping",
+    "url": "/sp25/assets/lectures/lec18/lec18/#Multiple-Attribute-Grouping",
     
-    "relUrl": "/assets/lectures/lec18/#Multiple-Attribute-Grouping"
-  },"96": {
+    "relUrl": "/assets/lectures/lec18/lec18/#Multiple-Attribute-Grouping"
+  },"97": {
     "doc": "Lecture 18",
     "title": "[Extra] Aggregation Pipeline Demos¶",
     "content": "Nobel laureate data from Kaggle: https://www.kaggle.com/datasets/imdevskp/nobel-prize/data . In [30]: client = pymongo.MongoClient('mongodb://localhost') client.list_database_names() client.drop_database('nobel_prizes') # if already exists db = client.nobel_prizes # run this cell to insert into the collection prizes with open('data/prize.json', encoding='utf-8') as f: db.prizes.insert_many(json.loads(f.read())) print(\"databases\", client.list_database_names()) db = client.nobel_prizes print(\"collections in nobel_prizes database\", db.list_collection_names()) . databases ['admin', 'aggquerydb', 'config', 'local', 'nobel_prizes'] collections in nobel_prizes database ['prizes'] . In [ ]: . In [ ]: # A output = db.prizes.aggregate([{\"$group\": {\"_id\": \"$category\", \"awardyears\": {\"$sum\" : 1}}}]) pretty_print(output, n_to_print=-1) . In [ ]: # B output = db.prizes.aggregate([{\"$group\": {\"_id\": \"$category\", \"awardyears\": {\"$sum\" : 1}}}, {\"$match\" : {\"awardyears\": {\"$lt\": 100}}}]) pretty_print(output, n_to_print=-1) . In [ ]: # C output = db.prizes.aggregate([{\"$group\": {\"_id\": \"$category\", \"awardyears\": {\"$sum\" : 1}}}, {\"$match\" : {\"awardyears\": {\"$lt\": 100}}}, {\"$project\" : {\"_id\": 0, \"awardyears\": 1}}]) pretty_print(output, n_to_print=-1) . In [ ]: # D output = db.prizes.aggregate([{\"$unwind\": \"$laureates\"}, {\"$group\": {\"_id\": \"$category\", \"awards\": {\"$sum\" : 1}}}]) pretty_print(output, n_to_print=-1) . In [ ]: # E output = db.prizes.aggregate([{\"$unwind\": \"$laureates\"}, {\"$group\": {\"_id\": {\"category\": \"$category\", \"year\": \"$year\"}, \"awards\": {\"$sum\" : 1}}}]) pretty_print(output, n_to_print=10) . In [ ]: # F output = db.prizes.aggregate([{\"$unwind\": \"$laureates\"}, {\"$group\": {\"_id\": {\"category\": \"$category\", \"year\": \"$year\"}, \"awards\": {\"$sum\" : 1}}}, {\"$sort\" : {\"awards\": -1}}]) pretty_print(output, n_to_print=15) . In [ ]: # G output = db.prizes.aggregate([{\"$unwind\": \"$laureates\"}, {\"$group\": {\"_id\": {\"category\": \"$category\", \"year\": \"$year\"}, \"awards\": {\"$sum\" : 1}}}, {\"$group\": {\"_id\":\"$_id.category\", \"avgawards\": {\"$avg\" : \"$awards\"}}}]) pretty_print(output, n_to_print=-1) . ",
-    "url": "/sp25/assets/lectures/lec18/#%5BExtra%5D-Aggregation-Pipeline-Demos",
+    "url": "/sp25/assets/lectures/lec18/lec18/#%5BExtra%5D-Aggregation-Pipeline-Demos",
     
-    "relUrl": "/assets/lectures/lec18/#%5BExtra%5D-Aggregation-Pipeline-Demos"
-  },"97": {
+    "relUrl": "/assets/lectures/lec18/lec18/#%5BExtra%5D-Aggregation-Pipeline-Demos"
+  },"98": {
     "doc": "Lecture 18",
     "title": "Lecture 18",
     "content": " ",
-    "url": "/sp25/assets/lectures/lec18/",
+    "url": "/sp25/assets/lectures/lec18/lec18/",
     
-    "relUrl": "/assets/lectures/lec18/"
-  },"98": {
+    "relUrl": "/assets/lectures/lec18/lec18/"
+  },"99": {
     "doc": "Resources",
     "title": "Resources",
     "content": "Jump to: . | Resources . | Prerequisites | Course Notes | SQL | Assignment Tips | Exam Resources | Wellness Resources . | Device Lending Options | . | . | . ",
     "url": "/sp25/resources/",
     
     "relUrl": "/resources/"
-  },"99": {
+  },"100": {
     "doc": "Resources",
     "title": "Prerequisites",
     "content": "The Data 100 textbook, the CS 61B curriculum, and the CS 61A textbook are excellent resources for brushing up on material from the prerequisites. ",
     "url": "/sp25/resources/#prerequisites",
     
     "relUrl": "/resources/#prerequisites"
-  },"100": {
+  },"101": {
     "doc": "Resources",
     "title": "Course Notes",
     "content": "The Data 101 course notes (found on the main page) are a work in progress and are meant to be a resource for you to refer to as you complete assignments. However, they are not a perfect substitute for lectures, as they are a passive resource—meaning you may read something but not understand it the first time. Lectures will have participation and engagement activities to help you practice the material. Please attend! . ",
     "url": "/sp25/resources/#course-notes",
     
     "relUrl": "/resources/#course-notes"
-  },"101": {
+  },"102": {
     "doc": "Resources",
     "title": "SQL",
     "content": "The PostgresSQL documentation can be read front to back. Highly recommended! . Other resources from Data 100, which are intended for SQLite: . | We’ve assembled some SQL Review Slides to help you brush up on SQL. | We’ve also compiled a list of SQL practice problems, which can be found here, along with their solutions. | This SQL Cheat Sheet is an awesome resource that was created by Luke Harrison, a former Data 100 student. | . ",
     "url": "/sp25/resources/#sql",
     
     "relUrl": "/resources/#sql"
-  },"102": {
+  },"103": {
     "doc": "Resources",
     "title": "Assignment Tips",
     "content": "See Assignment Tips. ",
     "url": "/sp25/resources/#assignment-tips",
     
     "relUrl": "/resources/#assignment-tips"
-  },"103": {
+  },"104": {
     "doc": "Resources",
     "title": "Exam Resources",
     "content": "| Semester | Midterm | Final | Reference Packet | Notes | . | Fall 2024 | Exam (Solutions) | Exam (Solutions) | Midterm, Final | Common Errors: Midterm, Final | . | Fall 2023 |   | Exam (Solutions) | Final | Common Errors | . | Fall 2022 |   | Exam (Solutions) |   | Shortened exam due to the UAW 2865 ASE strike | . Note: Reference sheets/packets will be provided with the paper exam; you should not need to print your own copy. Please post to Ed if you find typos. Thanks! . The best way to get a sense for what is needed for our written exam is to attend discussion throughout the semester and work on discussion handouts. ",
     "url": "/sp25/resources/#exam-resources",
     
     "relUrl": "/resources/#exam-resources"
-  },"104": {
+  },"105": {
     "doc": "Resources",
     "title": "Wellness Resources",
     "content": "Your well-being matters, and we hope that Data 100 is never a barrier to taking care of your mental and physical health. Below are some campus resources that may be helpful. COVID-19 Resources and Support . You can find UC Berkeley’ COVID-19 resources and support here. For academic performance, support, and technology . The Center for Access to Engineering Excellence (Bechtel Engineering Center 227) is an inclusive center that offers study spaces, nutritious snacks, and tutoring in &gt;50 courses for Berkeley engineers and other majors across campus. The Center also offers a wide range of professional development, leadership, and wellness programs, and loans iclickers, laptops, and professional attire for interviews. As the primary academic support service for undergraduates at UC Berkeley, the Student Learning Center (510-642-7332) assists students in transitioning to Cal, navigating the academic terrain, creating networks of resources, and achieving academic, personal, and professional goals. Through various services including tutoring, study groups, workshops, and courses, SLC supports undergraduate students in Biological and Physical Sciences, Business Administration, Computer Science, Economics, Mathematics, Social Sciences, Statistics, Study Strategies, and Writing. The Educational Opportunity Program (EOP, Cesar Chavez Student Center 119; 510-642-7224) at Cal has provided first generation and low income college students with the guidance and resources necessary to succeed at the best public university in the world. EOP’s individualized academic counseling, support services, and extensive campus referral network help students develop the unique gifts and talents they each bring to the university while empowering them to achieve. Device Lending Options . Students can access device lending options through the Student Technology Equity Program (STEP) program. For mental well-being . The staff of the UHS Counseling and Psychological Services (Tang Center, 2222 Bancroft Way; 510-642-9494; for after-hours support, please call the 24/7 line at 855-817-5667) provides confidential, brief counseling and crisis intervention to students with personal, academic and career stress. Services are provided by a multicultural group of professional counselors including psychologists, social workers, and advanced level trainees. All undergraduate and graduate students are eligible for CAPS services, regardless of insurance coverage. To improve access for engineering students, a licensed psychologist from the Tang Center also holds walk-in appointments for confidential counseling in Bechtel Engineering Center 241 (be sure to check the schedule). For disability accommodations . The Disabled Students’ Program (DSP, 260 César Chávez Student Center #4250; 510-642-0518) serves students with disabilities of all kinds, including mobility impairments, blind or low vision, deaf or hard of hearing; chronic illnesses (chronic pain, repetitive strain injuries, brain injuries, AIDS/HIV, cancer, etc.) psychological disabilities (bipolar disorder, severe anxiety or depression, etc.), Attention Deficit Disorder/Attention Deficit Hyperactivity Disorder, and Learning Disabilities. Services are individually designed and based on the specific needs of each student as identified by DSP’s Specialists. The Program’s official website includes information on DSP staff, UCB’s disabilities policy, application procedures, campus access guides for most university buildings, and portals for students and faculty. For solving a dispute . The Ombudsperson for Students (Sproul Hall 102; 510-642-5754) provides a confidential service for students involved in a University-related problem (academic or administrative), acting as a neutral complaint resolver and not as an advocate for any of the parties involved in a dispute. The Ombudsperson can provide information on policies and procedures affecting students, facilitate students’ contact with services able to assist in resolving the problem, and assist students in complaints concerning improper application of University policies or procedures. All matters referred to this office are held in strict confidence. The only exceptions, at the sole discretion of the Ombudsperson, are cases where there appears to be imminent threat of serious harm. The Student Advocate’s Office (SAO) is an executive, non-partisan office of the ASUC. We offer free, confidential casework services and resources to any student(s) navigating issues with the University, including academic, conduct, financial aid, and grievance concerns. All support is centered around students and aims for an equity-based approach. For recovery from sexual harassment or sexual assault . The Care Line (510-643-2005) is a 24/7, confidential, free, campus-based resource for urgent support around sexual assault, sexual harassment, interpersonal violence, stalking, and invasion of sexual privacy. The Care Line will connect you with a confidential advocate for trauma-informed crisis support including time-sensitive information, securing urgent safety resources, and accompaniment to medical care or reporting. For social services . Social Services provides confidential services and counseling to help students with managing problems that can emerge from illness such as financial, academic, legal, family concerns, and more. They specialize in helping students with pregnancy resources and referrals; alcohol/drug problems related to one’s own or a family member’s use; sexual assault/rape; relationship or other violence; and support for health concerns-new diagnoses or ongoing conditions. Social Services staff will assess a student’s immediate needs, work with the student to develop a plan to meet those needs, and facilitate arrangements with academic departments and advocate for the student with other campus offices and community agencies, as well as coordinate services within UHS. For finding community on campus . The mission of the Berkeley International Office(BIO) (2299 Piedmont Avenue, 510-642-2818) is to provide support with all the essential resources needed to not only survive, but thrive here at UC Berkeley. Their mission is to support you and work together towards justice and belonging for all. They define Basic Needs as the essential resources that impact your health, belonging, persistence, and overall well being. It is an ecosystem that includes: nutritious food, stable housing, hygiene, transportation, healthcare, mental wellness, financial sustainability, sleep, and emergency dependent services. They refuse to accept hunger, homelessness, and all other basic needs injustices as part of our university. The Gender Equity Resource Center, fondly referred to as GenEq, is a UC Berkeley campus community center committed to fostering an inclusive Cal experience for all. GenEq is the campus location where students, faculty, staff and Alumni connect for resources, services, education and leadership programs related to gender and sexuality. The programs and services of the Gender Equity Resource Center are focused into four key areas: women; lesbian, gay, bisexual, and transgender (LGBT); sexual and dating violence; and hate crimes and bias driven incidents. GenEq strives to provide a space for respectful dialogue about sexuality and gender; illuminate the interrelationship of sexism, homophobia and gender bias and violence; create a campus free of violence and hate; provide leadership opportunities; advocate on behalf of survivors of sexual, hate, dating and gender violence; foster a community of women and LGBT leaders; and be a portal to campus and community resources on LGBT, Women, and the many intersections of identity (e.g., race, class, ability, etc.). The Undocumented Students Program (119 Cesar Chavez Center; 642-7224) practices a holistic, multicultural and solution-focused approach that delivers individualized service for each student. The academic counseling, legal support, financial aid resources and extensive campus referral network provided by USP helps students develop the unique gifts and talents they each bring to the university, while empowering a sense of belonging. The program’s mission is to support the advancement of undocumented students within higher education and promote pathways for engaged scholarship. The Multicultural Education Program (MEP) is one of six initiatives funded by the Evelyn and Walter Haas, Jr. Fund to work towards institutional change and to create a positive campus climate for diversity. The MEP is a five-year initiative to establish a sustainable infrastructure for activities like educational consultation and diversity workshops for the campus that address both specific topics, and to cater to group needs across the campus. For basic needs (food, shelter, etc.) . The Basic Needs Center (lower level of MLK Student Union, Suite 72) provides support with all the essential resources needed to not only survive, but thrive here at UC Berkeley. Their mission is to support you and work together towards justice and belonging for all. They define Basic Needs as the essential resources that impact your health, belonging, persistence, and overall well being. It is an ecosystem that includes: nutritious food, stable housing, hygiene, transportation, healthcare, mental wellness, financial sustainability, sleep, and emergency dependent services. They refuse to accept hunger, homelessness, and all other basic needs injustices as part of our university. The UC Berkeley Food Pantry (#68 Martin Luther King Student Union) aims to reduce food insecurity among students and staff at UC Berkeley, especially the lack of nutritious food. Students and staff can visit the pantry as many times as they need and take as much as they need while being mindful that it is a shared resource. The pantry operates on a self-assessed need basis; there are no eligibility requirements. The pantry is not for students and staff who need supplemental snacking food, but rather, core food support. ",
     "url": "/sp25/resources/#wellness-resources",
     
     "relUrl": "/resources/#wellness-resources"
-  },"105": {
+  },"106": {
     "doc": "Staff",
     "title": "Staff",
     "content": " ",
     "url": "/sp25/staff/",
     
     "relUrl": "/staff/"
-  },"106": {
+  },"107": {
     "doc": "Staff",
     "title": "Instructors",
     "content": "Professor Professor Aditya Parameswaran . He/Him . adityagp@berkeley.edu . ",
     "url": "/sp25/staff/#instructors",
     
     "relUrl": "/staff/#instructors"
-  },"107": {
+  },"108": {
     "doc": "Staff",
     "title": "Lead Teaching Assistants",
     "content": "Student Support Assignments Christy Quang . SHE/HER . christyquang@berkeley.edu . Hi! I’m Christy, a senior studying Computer Science and Data Science. I know a lot about the Warriors. Excited to meet everyone! . Logistics Infrastructure Zackary Oon . HE/HIM . zackaryoon134@berkeley.edu . Hi, I’m Zack, and I’m a senior studying computer science and data science. I like playing super smash bros., and I’m trying to learn mandarin and drawing! . ",
     "url": "/sp25/staff/#lead-teaching-assistants",
     
     "relUrl": "/staff/#lead-teaching-assistants"
-  },"108": {
+  },"109": {
     "doc": "Staff",
     "title": "Teaching Assistants",
     "content": "Grading Aditi Somayajula . SHE/HER . aditi.somayajula@berkeley.edu . Hi! I am a senior majoring in Computer Science. Looking forward to this semester! . Projects Li Zhang . SHE/HER . iris421@berkeley.edu . Hey I’m Li! I was a tutor&amp;reader for 101, and I’m so excited to see you guys in sections as a TA. I love going to the gym, watching anime, and singing. Feel free to reach out and chat! . Course Notes Michelle Lin . SHE/HER . lin.michelle@berkeley.edu . Hi, this is Michelle! I am a Double Bear majoring in MIMS at the School of Information, with an undergraduate degree in Data Science and Statistics. I’m also a huge cat lover! This is my second time teaching Data 101 and I can’t wait to meet y’all! . ",
     "url": "/sp25/staff/#teaching-assistants",
     
     "relUrl": "/staff/#teaching-assistants"
-  },"109": {
+  },"110": {
     "doc": "Staff",
     "title": "Tutors",
     "content": "Aldrin Sembrana . HE/HIM . aldrinsembrana@berkeley.edu . Hi, I am a senior majoring in Data Science, and I enjoy dancing, eating, thrifting, cafe-ing, and more! I’m excited to meet you all :)) . Chenxi Qin . SHE/HER . chenxi1208@berkeley.edu . Hiii, I’m Stella (Chenxi)! I’m a junior studying Data Science &amp; CS. Super excited to be part of the course staff for Data 101 this semester, and looking forward to meeting y’all! . Manas Khatore . HE/HIM . manaskhatore@berkeley.edu . Hey everyone! I’m Manas and I’m a fourth-year studying data science and public policy. Hit me up if you wanna chat about AI policy, Pokémon, Bay Area restaurants, or Data 101! . Nehal Sindhu . SHE/HER . nehalsindhu@berkeley.edu . Hi! I’m a senior studying Data Science and Public Health and I’m super excited to teach data 101! I love pandas (the animal more than the library), matcha, concerts, and Thai food! . Wesley Zhang . HE/HIM . wesleyzhang357@berkeley.edu . Hi everyone, I’m Wesley. Looking forward to working with you all this semester! . ",
     "url": "/sp25/staff/#tutors",
     
     "relUrl": "/staff/#tutors"
-  },"110": {
+  },"111": {
     "doc": "Syllabus",
     "title": "Syllabus",
     "content": " ",
     "url": "/sp25/syllabus/#syllabus",
     
     "relUrl": "/syllabus/#syllabus"
-  },"111": {
+  },"112": {
     "doc": "Syllabus",
     "title": "Table of contents",
     "content": ". | About Data 101 (Info 258) . | Prerequisites | Info 258 vs Data 101 | Enrollment | Communications | . | Course Culture . | Be Aware of Your Actions | Be an Adult | Issues with Course Staff | Misuse of Course Resources | . | Course Components . | Lecture | Discussion | Projects | Homework Assignments | Exams | Final Project | Office Hours | . | Grading | Late Policy . | Additional Extensions | . | DSP Accommodations | Collaboration and Integrity | Academic and Wellness Resources | We want you to succeed! | . ",
     "url": "/sp25/syllabus/#table-of-contents",
     
     "relUrl": "/syllabus/#table-of-contents"
-  },"112": {
+  },"113": {
     "doc": "Syllabus",
     "title": "About Data 101 (Info 258)",
     "content": "This course will cover the principles and practices of managing data at scale, with a focus on use cases in data analysis and machine learning. We will cover the entire life cycle of data management and science, ranging from data preparation to exploration, visualization and analysis, to machine learning and collaboration. The class will balance foundational concerns with exposure to practical languages, tools, and real-world concerns. We will study the foundations of prevalent data models in use today, including relations, tensors, and dataframes, and mappings between them. We will study SQL as a means to query and manipulate data at scale, including analytical challenges like sampling, aggregation and windowing, and performance concerns like views and indexes, data models, query processing and optimization, and transactions, all from a user perspective. We will study the foundations and realities of data preparation, including hands-on work with real-world data using standard Python and SQL frameworks. We will explore data exploration modalities for non-programmers, including the fundamentals behind spreadsheet systems and interactive visual analytics packages. We will look at approaches for managing the lifecycle of data science, including the establishment, monitoring, and maintenance of data pipelines for both analytics and machine learning. Time permitting, we will look at the specifics of ML pipelines including data validation, training, prediction serving and feedback loops, as well as technologies for representing, moving, sharing, and caching data including event streaming systems, key-value/document stores, in-memory and on-disk representation formats, log analytics, and search engines. Textbook: There is no official textbook for Data 101 this semester; we will provide (informal) course notes that will be released with the respective lectures. Prerequisites . COMPSCI C100/DATA C100/STAT C100 or COMPSCI 189 or INFO 251 or DATA 144/INFO 254 or equivalent upper-division course in data science. COMPSCI 61B or INFO 206B or equivalent courses in programming. This class will not assume deep experience with databases or big data solutions. Info 258 vs Data 101 . Data 101 is the same class as Info 258; there are some small differences with respect to the weightage for the optional final project (basically: this is optional for Data 101 but compulsory for Info 258) but everything else stays the same. Enrollment . See our FAQ page. Communications . | Ed is our primary method of communication and making announcements, and you are responsible for checking it frequently. We will also make assignment “megathreads” where you can public ask questions about the course assignments. | bCourses will only have lecture webcasts, if any. | Gradescope is where all assignments are submitted. | data101@berkeley.edu is the course staff email and is for private logistical student support and DSP accommodations. This email monitored by both the instructor and a core set of staff to ensure fastest response. Please only contact the course instructor directly for matters that require strict privacy and/or their personal attention. | . ",
     "url": "/sp25/syllabus/#about-data-101-info-258",
     
     "relUrl": "/syllabus/#about-data-101-info-258"
-  },"113": {
+  },"114": {
     "doc": "Syllabus",
     "title": "Course Culture",
     "content": "Students taking Data C101 (Info 258) come from a wide range of backgrounds. We hope to foster an inclusive and safe learning environment based on curiosity rather than competition. All members of the course community — the instructors, students, and course staff — are expected to treat each other with courtesy and respect. Some of the responsibility for that lies with the staff, but a lot of it ultimately rests with you, the students. Be Aware of Your Actions . Sometimes, the little things add up to creating an unwelcoming culture to some students. For example, you and a friend may think you are sharing in a private joke about other races, majors, genders, abilities, cultures, etc. but this can have adverse effects on classmates who overhear it. There is a great deal of research on something called “stereotype threat”: research finds that simply reminding someone that they belong to a particular culture or share a particular identity (on whatever dimension) can interfere with their course performance. Stereotype threat works both ways: you can assume that a student will struggle based on who they appear to be, or you can assume that a student is doing great based on who they appear to be. Both are potentially harmful. Bear in mind that diversity has many facets, some of which are not visible. Your classmates may have medical conditions (physical or mental), personal situations (financial, family, etc.), or interests that aren’t common to most students in the course. Another aspect of professionalism is avoiding comments that (likely unintentionally) put down colleagues for situations they cannot control. Bragging in open space that an assignment is easy or “crazy,” for example, can send subtle cues that discourage classmates who are dealing with issues that you can’t see. Please take care, so we can create a class in which all students feel supported and respected. Be an Adult . Beyond the slips that many of us make unintentionally are a host of behaviors that the course staff, department, and university do not tolerate. These are generally classified under the term harassment; sexual harassment is a specific form that is governed by federal laws known as Title IX. UC Berkeley’s Title IX website provides many resources for understanding the terms, procedures, and policies around harassment. Make sure you are aware enough of these issues to avoid crossing a line in your interactions with other students. For example, repeatedly asking another student out on a date after they have said no can cross this line. Your reaction to this topic might be to laugh it off, or to make or think snide remarks about “political correctness” or jokes about consent or other things. You might think people just need to grow a thicker skin or learn to take a joke. This isn’t your decision to make. Research shows the consequences (emotional as well as physical) on people who experience harassment. When your behavior forces another student to focus on something other than their education, you have crossed a line. You have no right to take someone else’s education away from them. Issues with Course Staff . From the Data Science Department: Data Science Undergraduate Studies faculty and staff are committed to creating a community where every person feels respected, included, and supported. We recognize that incidents may happen, sometimes unintentionally, that run counter to this goal. There are many things we can do to try to improve the climate for students, but we need to understand where the challenges lie. If you experience a remark, or disrespectful treatment, or if you feel you are being ignored, excluded or marginalized in a course or program-related activity, please speak up. Consider talking to your instructor, but you are also welcome to contact Executive Director Christina Teller at cpteller@berkeley.edu or report an incident anonymously through this online form. As course staff, we are committed to creating a learning environment welcoming of all students that supports a diversity of thoughts, perspectives and experiences and respects your identities and backgrounds (including race, ethnicity, nationality, gender identity, socioeconomic class, sexual orientation, language, religion, ability, and more.) To help accomplish this: . | If your name and/or pronouns differ from those that appear in your official records, please let us know. | If you feel like your performance in the class is being affected by your experiences outside of class (e.g., family matters, current events), please don’t hesitate to come and talk with us. We want to be resources for you. | We (like many people) are still in the process of learning about diverse perspectives and identities. If something was said in class (by anyone) that made you feel uncomfortable, please talk to us about it. | While the course staff understands that improving diversity, equity, and inclusion (DEI) are not enough to overcome systemic issues in academia such as racism, queerphobia, and other forms of discrimination and hatred, we also recognize the importance of DEI work. | The Data Science Department has some resources available at https://data.berkeley.edu/about/diversity-equity-and-inclusion. | There’s also a great set of resources available at https://eecs.berkeley.edu/resources/students/grievances. | . | If there are other resources you think we should list here, let us know! | . We will take all complaints about unprofessional or discriminatory behavior seriously. Misuse of Course Resources . If individuals are disrespectful to students, course staff, or others via course resources, they will lose access to course resources. E.g., if someone is unkind in the course forum, their account will be removed from the course forum. If someone is unkind in the classroom, they will be asked to leave the classroom. ",
     "url": "/sp25/syllabus/#course-culture",
     
     "relUrl": "/syllabus/#course-culture"
-  },"114": {
+  },"115": {
     "doc": "Syllabus",
     "title": "Course Components",
     "content": "Lecture . There are two 80-minute lectures per week, TuTh 9:30am, Lewis 100. You can attend in-person or online, or watch the recording. The class schedule will contain links to video recordings posted within 24 hours after the corresponding class. Lecture check-ins: Every lecture (starting the 3rd lecture, 1/28, onwards) will have a short series of questions to help check your understanding of the material. You will have one week to complete each check-in; no late submissions will be accepted. Each check-in is worth 1 point and is graded on completeness as follows: . | Synchronous (during lecture) complete at least one question. | Asynchronous (after lecture, within 1 week) complete all questions. | . In both cases, navigate to slido.com . Discussion . This course also includes one weekly 50-minute discussion section held on Thursdays and Fridays. This section will help you synthesize materials via worksheets and activities and is good practice for the final exam. Handouts wil be posted on the class Schedule. Section attendance is not required, but you are strongly encouraged to practice the material on your own time. Discussion begins with the first week of classes. Projects . There will be five (5) programming assignments released throughout the semester (see the schedule). Generally, you will have one to two weeks to complete each project. Projects are graded on accuracy and are almost equally weighted, with the exception of Project 0 (weighted half of the other projects). Project deadlines are generally Wednesday 5pm. Homework Assignments . There will be five (5) homework assignments released on Gradescope throughout the semester. You will have one to two weeks to complete short written assignments. Each homework assignment consists of multiple choice and short answer questions. Homework assignments are graded on accuracy and are equally weighted. Homework assignment deadlines are generally Wednesday 5pm. Exams . This course has two exams: . | Midterm exam: Wednesday, March 12th, 6:00pm - 8:00pm | Final exam: Wednesday, May 14th, 11:30am - 2:30pm | . Exams are offered in-person only. It is your responsibility to ensure that you are not enrolled in another class that conflicts with our midterm or final exam time. All details will be posted on Ed. Final Project . We will have an optional final course project this semester. This will be an open-ended exploration of data systems, and you will submit a written final report. Details to be released after the midterm. Office Hours . Office Hours are a great place to get help from course staff and to find study partners for this course. You can find a list of all office hours on the calendar page. There are two categories of office hours: . | TA/Tutor office hours, held weekly in Warren 101B. Attend to get help with homework assignments, projects, or any other content-related questions. | Instructor office hours, held weekly in Soda 787 are for content-related questions, but also general course questions, data science advising, or perspectives on academia/industry. These are not intended for homework or project questions. Feel free to bring tea/coffee and/or a reusable mug. | . ",
     "url": "/sp25/syllabus/#course-components",
     
     "relUrl": "/syllabus/#course-components"
-  },"115": {
+  },"116": {
     "doc": "Syllabus",
     "title": "Grading",
     "content": "Letter grades for the course will be based on your overall score in the class. The default scheme for Data 101 is without the optional final project: . | Component | Weight(default) | Weight(Final Project) | Details | . | Lecture Check-Ins | 6% | 6% | Drop 4 lowest scores. Skip Lecture 01 and 02. | . | Projects | 36% | 36% | (8% each typically) No drops; Project 0 worth half others. see Late Policy | . | Homework Assignments | 18% | 18% | (3.6% each) No drops; see Late Policy | . | Midterm | 15% | 10% |   | . | Final Exam | 25% | 20% | Final is cumulative. | . | Final Project | – | 10% | Optional | . If you choose to do the project, your final grade will be the maximum of the two grading schemes. For Info 258 students, the grading scheme will be the one involving the final project. ",
     "url": "/sp25/syllabus/#grading",
     
     "relUrl": "/syllabus/#grading"
-  },"116": {
+  },"117": {
     "doc": "Syllabus",
     "title": "Late Policy",
     "content": "Everyone has 9 slip days, which can be applied to late submissions of projects and homework assignments, including the final project. | Each project or homework assignment can have a max of 3 slip days applied to it. These slip days will be automatically applied at the end of the semester to maximize your grade, based on the final grade shown in gradescope. | Slip days are rounded up to the next day. That is, 5 minutes late = 1 day late. We will use the submission time as displayed on Gradescope. You should track your own slip days. | If you have no remaining slip days, there is a 15% reduction to your total score for every day that the assignment is late. After 3 slip days (i.e., late days), you can no longer receive credit for the submission. | Lecture check-ins are not eligible for slip days. | Please do not ask the staff to apply slip days to particular assignments, or track how many you have used. If an assignment is open for submission it is always in your interest to turn in your best effort. | . Additional Extensions . We recognize that life can be unexpected. If you encounter the need for additional extensions at any time in the semester, please don’t hesitate to let us know. The sooner we are made aware, the more options we have available to us to help you. The Additional Extensions form is for addressing any circumstances that cannot be resolved via the slip day policy above. This form is designed to lower the barrier to reaching out to us, as well as build your independence in managing your academic career long-term. Within one business day of filling out the form, a course staff will reach out to you and, as needed, provide a space for conversation and arrange course accommodations as necessary. When making extension requests: . | Send requests before the assignment deadline | Send one extension request per assignment | If your extension request is granted, then the extension is to the original on-time deadline, from which slip days can be used. We will prioritize using your slip days over providing additional extensions. | . You are responsible for reasonable, timely communication with course staff. Simply submitting a request does not guarantee you will receive an extension. Even if your work is incomplete, please submit before the deadline so you can receive credit for the work you did complete. ",
     "url": "/sp25/syllabus/#late-policy",
     
     "relUrl": "/syllabus/#late-policy"
-  },"117": {
+  },"118": {
     "doc": "Syllabus",
     "title": "DSP Accommodations",
     "content": "If you have DSP accommodations for extended time on assignments, please make sure we have received your DSP accommodation letter. We will contact you about arrangements. ",
     "url": "/sp25/syllabus/#dsp-accommodations",
     
     "relUrl": "/syllabus/#dsp-accommodations"
-  },"118": {
+  },"119": {
     "doc": "Syllabus",
     "title": "Collaboration and Integrity",
     "content": "You are encouraged to discuss practice problems and lecture content with your fellow students and with course staff. Arguing with friends about exercises is an excellent and time-honored way to learn. However, you must write up all your own assignments and code by yourself. Copying assignments from other sources is not only dishonest, it also doesn’t help anyone, least of all yourself. We have important rules: . | All code you submit should be written by you alone. | Do not possess or share code. Before submitting your final work, you should never be in possession of solution code that you did not write. Looking up solution code online is effectively possessing solution code. You will be equally culpable if you distribute code, now or in the future. If you find yourself struggling or really desperate, reach out to the staff and/or submit to Additional Extensions. | Cite your sources: . | Study groups: If you do discuss the assignments with others please include their names at the top of your notebook. Restated, you and your friends are encouraged to discuss course content and high-level approaches to problem-solving, but you are not allowed to share your code nor answers. You can work on a project alongside another person or group of people (e.g., study group), but it should not substantially resemble anyone else’s. | StackOverflow, etc. You should cite these sources, even if it’s using small snippets of code (e.g., googling “postgres string matching” may lead you to some sample code that you copy and paste. Include the link to these online sources. | With extreme caution: If you’re just generating some amount of boilerplate code with GitHub Copilot / LLMs / etc., that’s OK. However, you should not use such tools to generate non-trivial methods. AI methods often suffer from hallucinations, incompleteness, mistakes, and other idiosyncracies, and so there is a real danger to trusting them. There is always a need for human verification and validation, so in this class we emphasize your ability to do data engineering work without access to AI. Any AI-generated code must be cited (with the prompt and log) and explicitly indicated as such. Violation of this citation rule is a serious act of plagiarism. | . | . Each assignment will ask you to list any collobrators, outside sources, or other help received. You are expected to fill this hout honestly. We will follow the EECS departmental policy on academic honesty, so be sure you are familiar with it. We will be running advanced plagiarism detection programs on all assignments. Posting solutions is also prohibited. If you find a solution online, please email a link to that solution tot he instructor. We are tough with dishonest students and we hope that we will not be put in that situation in this class. We expect that you will work with integrity and with respect for other members of the class, just as the course staff will work with integrity and with respect for you. If you need help, just reach out and ask us. You are not alone. ",
     "url": "/sp25/syllabus/#collaboration-and-integrity",
     
     "relUrl": "/syllabus/#collaboration-and-integrity"
-  },"119": {
+  },"120": {
     "doc": "Syllabus",
     "title": "Academic and Wellness Resources",
     "content": "Our Resources page lists not only course-specific academic resources such as course notes, past exams, study guides, and prerequisite review links, but also campus wellness resources on COVID-19, academic support, technology support, mental well-being, DSP accommodations, dispute resolution, social services, campus community, and basic needs. Our staff will also refer to this page when supporting you through this course. ",
     "url": "/sp25/syllabus/#academic-and-wellness-resources",
     
     "relUrl": "/syllabus/#academic-and-wellness-resources"
-  },"120": {
+  },"121": {
     "doc": "Syllabus",
     "title": "We want you to succeed!",
     "content": "If you are feeling overwhelmed, visit our office hours and talk with us, or fill out the Additional Extensions Form. We know college can be stressful and we want to help you succeed. Finally, the main goal of this course is that you should learn, and have a fantastic experience doing so. Please keep that goal in mind throughout the semester. Welcome to Data 101! . ",
     "url": "/sp25/syllabus/#we-want-you-to-succeed",
     
     "relUrl": "/syllabus/#we-want-you-to-succeed"
-  },"121": {
+  },"122": {
     "doc": "Syllabus",
     "title": "Syllabus",
     "content": " ",

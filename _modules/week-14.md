@@ -8,10 +8,10 @@ Mon 4/21
 : {% proj_due 5 %} Checkpoint due, 5pm
 
 Tue 4/22
-: {% lec 24 %}
+: {% lec 23 %}
 
 Thu 4/24
-: {% lec 25 %}
+: {% lec 24 %}
 : {% disc 10 %} TBA 
   : Solution
 

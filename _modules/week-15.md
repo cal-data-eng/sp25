@@ -5,14 +5,14 @@ Status: Active
 ---
 
 Tue 4/29
-: {% lec 26 %}
+: {% lec 25 %}
     : End-of-Semester Form
 
 Wed 4/30
 : {% hw_due 5 %} Due, 5pm
 
 Thu 5/1
-: {% lec 27 %}
+: {% lec 26 %}
 
 Fri 5/2
 : {% proj_due 5 %} Final Report due, 5pm
