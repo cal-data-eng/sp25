@@ -16,7 +16,7 @@ Thu 3/20
   : Solution, [Code](http://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Fsp25-materials&urlpath=tree%2Fsp25-materials%2Fdisc%2Fdisc07%2Fdisc07.ipynb&branch=main) 
 
 Fri 3/21
-: {% proj_rel 3 %} Data Transformation
+: {% proj_rel 3 %} [Data Transformation](https://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Fsp25-materials.git&urlpath=lab%2Ftree%2Fsp25-materials.git%2Fproj%2Fproj3&branch=main)
   : Due Fri 4/4, 5pm
 
 
