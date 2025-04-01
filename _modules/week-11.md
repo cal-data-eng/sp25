@@ -5,7 +5,7 @@ Status: Active
 ---
 
 Mon 3/31
-: {% hw_rel 4 %} Homework 4
+: {% hw_rel 4 %} [Homework 4](https://www.gradescope.com/courses/959541/assignments/5988702/)
   : Due Wed 4/9, 5pm
 
 Tue 4/1
