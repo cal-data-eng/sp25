@@ -4,13 +4,13 @@ date: 2025-04-07
 Status: Active
 ---
 
-Tue 4/5
+Tue 4/8
 : {% lec 19 %}
 
-Wed 4/6
+Wed 4/9
 : {% hw_due 4 %} Due, 5pm
 
-Thu 4/7
+Thu 4/10
 : {% lec 20 %}
 : {% disc 9 %} TBA 
   : Solution

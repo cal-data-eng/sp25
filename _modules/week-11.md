@@ -10,16 +10,18 @@ Mon 3/31
 
 Tue 4/1
 : {% lec 17 %}
-
+  : [Course Notes](https://data101.org/notes/6-semi_data/semistructured.html)
+  
 Thu 4/3
 : {% lec 18 %}
+  : [Course Notes](https://data101.org/notes/6-semi_data/mongodb.html)<br>[MongoDB Style Guide](https://data101.org/notes/appendix/mongo-style.html)
 : {% disc 8 %} TBA 
   : Solution
 
 Fri 4/4
 : {% proj_due 3 %} Due, 5pm
 : {% proj_rel 4 %} Mongo
-  : Due Wed 4/16, 5pm
+  : Due Fri 4/18, 5pm
 : {% proj_rel 5 %} Optional\* Final Project
   : Checkpoint due Mon 4/21, 5pm  <br> Final Report due Fri 5/2, 5pm
 

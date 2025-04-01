@@ -12,6 +12,7 @@ Wed 3/19
 
 Thu 3/20
 : {% lec 16 %}
+  : [Course Notes](https://data101.org/notes/4-data_modeling/ER_diagrams.html)
 : {% disc 7 %} [Entity Resolution, ER Diagram, Hampel X84](https://drive.google.com/file/d/1l0F4krNUwe8BjUMBXDCVGzAR8ePSET_n/view?usp=sharing) 
   : Solution, [Code](http://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Fsp25-materials&urlpath=tree%2Fsp25-materials%2Fdisc%2Fdisc07%2Fdisc07.ipynb&branch=main) 
 
