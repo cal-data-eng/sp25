@@ -14,7 +14,7 @@ Thu 3/20
 : {% lec 16 %}
   : [Course Notes](https://data101.org/notes/4-data_modeling/ER_diagrams.html)
 : {% disc 7 %} [Entity Resolution, ER Diagram, Hampel X84](https://drive.google.com/file/d/1l0F4krNUwe8BjUMBXDCVGzAR8ePSET_n/view?usp=sharing) 
-  : Solution, [Code](http://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Fsp25-materials&urlpath=tree%2Fsp25-materials%2Fdisc%2Fdisc07%2Fdisc07.ipynb&branch=main) 
+  : [Solution](https://drive.google.com/file/d/1_ye2PXHA3D6oHAaDKREbXJ62Zq82JkVo/view?usp=sharing), [Code](http://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Fsp25-materials&urlpath=tree%2Fsp25-materials%2Fdisc%2Fdisc07%2Fdisc07.ipynb&branch=main) 
 
 Fri 3/21
 : {% proj_rel 3 %} [Data Transformation](https://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Fsp25-materials.git&urlpath=lab%2Ftree%2Fsp25-materials.git%2Fproj%2Fproj3&branch=main)

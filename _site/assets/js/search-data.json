@@ -428,14 +428,22 @@
   },"61": {
     "doc": "Home",
     "title": "Week 11 Announcement",
+<<<<<<< HEAD
     "content": "Mar 31 Project 3 is due this Friday! Homework 4 has been released and is due on Wednesday 4/9. Project 4 and the optional Project 5 will also be released this Friday. See Week 11 Ed announcement. ",
+=======
+    "content": "Mar 31 ",
+>>>>>>> bbb17dd8e498117449775aed8276ec1553a86dac
     "url": "/sp25/",
     
     "relUrl": "/"
   },"62": {
     "doc": "Home",
     "title": "Week 10 Announcement",
+<<<<<<< HEAD
     "content": "Mar 24 ",
+=======
+    "content": "Mar 24 Spring Break! . ",
+>>>>>>> bbb17dd8e498117449775aed8276ec1553a86dac
     "url": "/sp25/",
     
     "relUrl": "/"

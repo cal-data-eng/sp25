@@ -5,13 +5,13 @@ Status: Active
 ---
 
 Mon 3/31
-: {% hw_rel 4 %} Homework 4
+: {% hw_rel 4 %} [Homework 4](https://www.gradescope.com/courses/959541/assignments/5988702/)
   : Due Wed 4/9, 5pm
 
 Tue 4/1
 : {% lec 17 %}
   : [Course Notes](https://data101.org/notes/6-semi_data/semistructured.html)
-  
+
 Thu 4/3
 : {% lec 18 %}
   : [Course Notes](https://data101.org/notes/6-semi_data/mongodb.html)<br>[MongoDB Style Guide](https://data101.org/notes/appendix/mongo-style.html)
