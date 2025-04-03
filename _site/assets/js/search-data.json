@@ -428,22 +428,14 @@
   },"61": {
     "doc": "Home",
     "title": "Week 11 Announcement",
-<<<<<<< HEAD
     "content": "Mar 31 Project 3 is due this Friday! Homework 4 has been released and is due on Wednesday 4/9. Project 4 and the optional Project 5 will also be released this Friday. See Week 11 Ed announcement. ",
-=======
-    "content": "Mar 31 ",
->>>>>>> bbb17dd8e498117449775aed8276ec1553a86dac
     "url": "/sp25/",
     
     "relUrl": "/"
   },"62": {
     "doc": "Home",
     "title": "Week 10 Announcement",
-<<<<<<< HEAD
-    "content": "Mar 24 ",
-=======
     "content": "Mar 24 Spring Break! . ",
->>>>>>> bbb17dd8e498117449775aed8276ec1553a86dac
     "url": "/sp25/",
     
     "relUrl": "/"
@@ -597,7 +589,7 @@
   },"84": {
     "doc": "Home",
     "title": "Week 11",
-    "content": "Mon 3/31 Homework 4 Homework 4 Due Wed 4/9, 5pm Tue 4/1 Lecture 17 Semistructured Data: NoSQL, JSON, XML Course Notes Thu 4/3 Lecture 18 MongoDB I Course NotesMongoDB Style Guide Discussion 8 TBA Solution Fri 4/4 Project 3 Due, 5pm Project 4 Mongo Due Fri 4/18, 5pm Project 5 Optional* Final Project Checkpoint due Mon 4/21, 5pm Final Report due Fri 5/2, 5pm ",
+    "content": "Mon 3/31 Homework 4 Homework 4 Due Wed 4/9, 5pm Tue 4/1 Lecture 17 Semistructured Data: NoSQL, JSON, XML Course Notes Thu 4/3 Lecture 18 MongoDB I Course NotesMongoDB Style Guide Discussion 8 Normalization, Semi-Structured Data, MongoDB Solution Fri 4/4 Project 3 Due, 5pm Project 4 Mongo Due Fri 4/18, 5pm Project 5 Optional* Final Project Checkpoint due Mon 4/21, 5pm Final Report due Fri 5/2, 5pm ",
     "url": "/sp25/#week-11",
     
     "relUrl": "/#week-11"
