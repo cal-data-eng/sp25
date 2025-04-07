@@ -16,7 +16,7 @@ Thu 4/3
 : {% lec 18 %}
   : [Course Notes](https://data101.org/notes/6-semi_data/mongodb.html)<br>[MongoDB Style Guide](https://data101.org/notes/appendix/mongo-style.html)
 : {% disc 8 %} [Normalization, Semi-Structured Data, MongoDB](https://drive.google.com/file/d/1vpF8CP0F3OTI5yojN-edOAFy4-uvCzmc/view?usp=sharing) 
-  : Solution
+  : [Solution](https://drive.google.com/file/d/1zp60MoWzsHfl3LGppsaFs1qJF2N6E0f5/view?usp=sharing)
 
 Fri 4/4
 : {% proj_due 3 %} Due, 5pm
