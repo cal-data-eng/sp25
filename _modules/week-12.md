@@ -6,12 +6,14 @@ Status: Active
 
 Tue 4/8
 : {% lec 19 %}
+  : [Course Notes](https://data101.org/notes/6-semi_data/mongodb.html)
 
 Wed 4/9
 : {% hw_due 4 %} Due, 5pm
 
 Thu 4/10
 : {% lec 20 %}
+  : [Course Notes](https://data101.org/notes/9-data_pipelines/index.html)
 : {% disc 9 %} TBA 
   : Solution
   

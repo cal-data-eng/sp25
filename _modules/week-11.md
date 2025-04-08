@@ -23,7 +23,7 @@ Fri 4/4
 : {% proj_rel 4 %} [Mongo](https://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Fsp25-materials.git&urlpath=lab%2Ftree%2Fsp25-materials.git%2Fproj%2Fproj4&branch=main)
   : Due Fri 4/18, 5pm
 : {% proj_rel 5 %} Optional\* Final Project
-  : Checkpoint due Mon 4/21, 5pm  <br> Final Report due Fri 5/2, 5pm
+  : Checkpoint due Fri 4/18, 5pm  <br> Final Report due Fri 5/2, 5pm
 
 <!--
 Thu 8/29
