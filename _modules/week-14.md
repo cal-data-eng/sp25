@@ -4,15 +4,15 @@ date: 2025-04-21
 Status: Active
 ---
 
-Mon 4/21
-: {% proj_due 5 %} Checkpoint due, 5pm
+<!-- Mon 4/21
+: {% proj_due 5 %} Checkpoint due, 5pm -->
 
 Tue 4/22
 : {% lec 23 %}
 
 Thu 4/24
 : {% lec 24 %}
-: {% disc 10 %} TBA 
+: {% disc 11 %} TBA 
   : Solution
 
 <!--

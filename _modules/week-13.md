@@ -12,8 +12,11 @@ Thu 4/17
 
 Fri 4/18
 : {% proj_due 4 %} Due, 5pm
+: {% proj_due 5 %} Checkpoint due, 5pm
 : {% hw_rel 5 %} Homework 5
   : Due Wed 4/30, 5pm
+: {% disc 10 %} TBA 
+  : Solution
 
 <!--
 Thu 8/29
