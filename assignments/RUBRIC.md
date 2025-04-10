@@ -5,7 +5,7 @@
 **Total: 80 points**
 
 ## Basic Tasks [**5 points**]
-- [ ] Initial Team Declaration Form [2 points]
+- [ ] Final Project Team Form [2 points]
 - [ ] Final Peer Assessment Form [3 points]
 
 ## Checkpoint [**15 Points**]

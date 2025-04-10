@@ -340,7 +340,7 @@
 
 <ol id="markdown-toc">
   <li>
-<a href="#overview-instructions-from-fa24-will-be-updated-for-sp25" id="markdown-toc-overview-instructions-from-fa24-will-be-updated-for-sp25">Overview (Instructions from Fa24, will be updated for Sp25)</a>    <ol>
+<a href="#overview" id="markdown-toc-overview">Overview</a>    <ol>
       <li><a href="#learning-goals" id="markdown-toc-learning-goals">Learning Goals</a></li>
     </ol>
   </li>
@@ -353,11 +353,9 @@
   </li>
   <li>
 <a href="#get-started" id="markdown-toc-get-started">Get Started</a>    <ol>
-      <li><a href="#template-repository" id="markdown-toc-template-repository">Template Repository</a></li>
       <li><a href="#setup-and-install-your-tools" id="markdown-toc-setup-and-install-your-tools">Setup and install your tools</a></li>
     </ol>
   </li>
-  <li><a href="#design-your-dataset-schema" id="markdown-toc-design-your-dataset-schema">Design Your Dataset Schema</a></li>
   <li>
 <a href="#load-your-dataset-into-postgresql-and-another-data-system" id="markdown-toc-load-your-dataset-into-postgresql-and-another-data-system">Load Your Dataset into PostgreSQL and Another Data System</a>    <ol>
       <li><a href="#data-loading-cleaning-and-sampling" id="markdown-toc-data-loading-cleaning-and-sampling">Data Loading, Cleaning, and Sampling</a></li>
@@ -371,13 +369,13 @@
   </li>
   <li>
 <a href="#project-deliverables" id="markdown-toc-project-deliverables">Project Deliverables</a>    <ol>
-      <li><a href="#1-team-matching-survey-due-tbd" id="markdown-toc-1-team-matching-survey-due-tbd">1. Team Matching Survey (due TBD)</a></li>
-      <li><a href="#2-checkpoint-checkpoint-report-and-github-repository-due-tbd" id="markdown-toc-2-checkpoint-checkpoint-report-and-github-repository-due-tbd">2. Checkpoint: Checkpoint Report and GitHub Repository (due TBD)</a></li>
-      <li><a href="#3-final-report-and-github-repository-due-tbd" id="markdown-toc-3-final-report-and-github-repository-due-tbd">3. Final Report and GitHub Repository (due TBD)</a></li>
-      <li><a href="#4-team-member-assessment-due-tbd" id="markdown-toc-4-team-member-assessment-due-tbd">4. Team Member Assessment (due TBD)</a></li>
+      <li><a href="#1-checkpoint-team-confirmation-and-checkpoint-report-due-418-5-pm-pt" id="markdown-toc-1-checkpoint-team-confirmation-and-checkpoint-report-due-418-5-pm-pt">1. Checkpoint: Team Confirmation and Checkpoint Report (due 4/18, 5 PM PT)</a></li>
+      <li><a href="#2-final-report-due-52-5-pm-pt" id="markdown-toc-2-final-report-due-52-5-pm-pt">2. Final Report (due 5/2, 5 PM PT)</a></li>
+      <li><a href="#3-team-member-assessment-due-52-5-pm-pt" id="markdown-toc-3-team-member-assessment-due-52-5-pm-pt">3. Team Member Assessment (due 5/2, 5 PM PT)</a></li>
     </ol>
   </li>
   <li><a href="#grading" id="markdown-toc-grading">Grading</a></li>
+  <li><a href="#grading-penalties-if-you-drop-midway" id="markdown-toc-grading-penalties-if-you-drop-midway">Grading penalties if you drop midway</a></li>
   <li><a href="#academic-integrity-and-collaboration-policy" id="markdown-toc-academic-integrity-and-collaboration-policy">Academic Integrity and Collaboration Policy</a></li>
   <li><a href="#working-in-groups" id="markdown-toc-working-in-groups">Working in Groups</a></li>
   <li><a href="#faq" id="markdown-toc-faq">FAQ</a></li>
@@ -396,61 +394,58 @@
   <li>Jump to <a href="#getting-started">Getting Started</a>
 </li>
   <li><a href="/sp25/assignments/final-project-tips">Final Project Tips</a></li>
-  <li><a href="https://github.com/cal-data-eng/final-proj" target="\_blank">Template repository</a></li>
+  <li><a href="TBA" target="\_blank">Template Final Report</a></li>
   <li>Checkpoint Gradescope Submissions:
     <ul>
-      <li><a href="https://www.gradescope.com/courses/835949/assignments/5331860">Checkpoint Submission [Group]</a></li>
-      <li><a href="https://www.gradescope.com/courses/835949/assignments/5332076">Checkpoint Peer Assessment [Individual]</a></li>
-      <li><a href="https://www.gradescope.com/courses/835949/assignments/5426574/">Final Submission [Group]</a></li>
-      <li><a href="https://www.gradescope.com/courses/835949/assignments/5426573/">Peer Assessment [Individual]</a></li>
+      <li><a href="https://www.gradescope.com/courses/959541/assignments/6067217">Checkpoint Submission [Group]</a></li>
+      <li><a href="https://www.gradescope.com/courses/959541/assignments/6067219">Final Submission [Group]</a></li>
+      <li><a href="https://www.gradescope.com/courses/959541/assignments/6066878">Peer Assessment [Individual]</a></li>
     </ul>
   </li>
 </ul>
-<h2 id="overview-instructions-from-fa24-will-be-updated-for-sp25">
+<h2 id="overview">
   
   
-    <a href="#overview-instructions-from-fa24-will-be-updated-for-sp25" class="anchor-heading" aria-labelledby="overview-instructions-from-fa24-will-be-updated-for-sp25"><svg viewbox="0 0 16 16" aria-hidden="true"><use xlink:href="#svg-link"></use></svg></a> Overview (Instructions from Fa24, will be updated for Sp25)
+    <a href="#overview" class="anchor-heading" aria-labelledby="overview"><svg viewbox="0 0 16 16" aria-hidden="true"><use xlink:href="#svg-link"></use></svg></a> Overview
   
   
 </h2>
     
 
-<p>The final project is <strong>optional</strong>; if you submit it, it will be <a href="/sp25/syllabus">10% of your final grade</a>. The final project will be a multi-part group project which will ask that you complete an investigation of two data systems—one of which is PostgreSQL and the other will be a non-relational system of your choice—based on a <strong>performance benchmark</strong> (dataset, queries, and measurements) of your design.</p>
+<p>The final project is <strong>optional</strong>; if you submit it, it will be <a href="/sp25/syllabus">10% of your final grade</a>. Given that this is both a group project and optional, there will be penalties to your final grade if you end up stop working on the project midway through (out of fairness to your team members). If you are choosing to participate, realize that you will have to follow all the way through to the end — more on this later.</p>
 
-<p>If you are interested in completing this optional final project, we encourage you to skim this page and start finding groups for the <a href="TBD">Team Matching Survey</a> deadline on <strong>TBD</strong>. A Project Partner search thread has also been posted on Ed.
-Group confirmations will be released on <strong>TBD</strong>.</p>
+<p>The final project will be a multi-part group project which will ask that you complete an investigation of two data systems—one of which is PostgreSQL and the other will be a non-relational system of your choice—based on a <strong>performance benchmark</strong> (dataset, queries, and measurements) of your design.</p>
 
-<p>You will submit a GitHub repository and written report, where your analysis will include the following steps:</p>
+<p>If you are interested in completing this optional final project, we encourage you to skim this page and start finding groups, using the team search thread as posted on Ed. As mentioned previously, if you choose to do the project, you are making a commitment to work with your team all the way through to final project submission, so please be mindful of that.</p>
+
+<p>You will submit a written report, where your analysis will include the following steps:</p>
+
+<p>1.<strong>Load your dataset into PostgreSQL</strong>. Given the size of your dataset, instead of DataHub you may need to do a local installation of JupyterHub and PostgreSQL &gt; 14. More installation details to follow.</p>
+<ul>
+  <li>We have curated <strong>a list of suggested datasets</strong> to use for your project, but you are also welcome to select an external dataset:
+    <ul>
+      <li>Yelp: <a href="https://www.yelp.com/dataset">https://www.yelp.com/dataset</a>
+</li>
+      <li>Open Library: <a href="https://openlibrary.org/developers/dumps">https://openlibrary.org/developers/dumps</a>
+</li>
+      <li>Wikipedia: <a href="https://dumps.wikimedia.org/">https://dumps.wikimedia.org/</a>
+        <ul>
+          <li>You will likely want to start with a <a href="https://dumps.wikimedia.org/enwiki/20241020/">recent dump of English Wikipedia</a>. (<a href="https://dumps.wikimedia.org/enwiki/20241101/">https://dumps.wikimedia.org/enwiki/20241101/</a>)</li>
+          <li>We <strong>do not</strong> recommend that you consider the full text/HTML dump of Wikipedia for this assignment, and only the metadata about the articles. However, you could choose to sample the text dump.</li>
+          <li>
+<a href="https://en.wikipedia.org/wiki/Wikipedia:Database_download">Wikipedia maintains a guide</a> on their own data dumps.</li>
+        </ul>
+      </li>
+      <li>If you would like to “bring your own” dataset, see the section “Choosing an alternate dataset” for more information.</li>
+    </ul>
+  </li>
+</ul>
 
 <ol>
   <li>
-<strong>Design your dataset schema</strong>. Design a relational schema for a chosen dataset. Draw an ER diagram for your schema.
-    <ul>
-      <li>We have curated <strong>a list of suggested datasets</strong> to use for your project, but you are also welcome to select an external dataset:
-        <ul>
-          <li>Yelp: <a href="https://www.yelp.com/dataset">https://www.yelp.com/dataset</a>
-</li>
-          <li>Open Library: <a href="https://openlibrary.org/developers/dumps">https://openlibrary.org/developers/dumps</a>
-</li>
-          <li>Wikipedia: <a href="https://dumps.wikimedia.org/">https://dumps.wikimedia.org/</a>
-            <ul>
-              <li>You will likely want to start with a <a href="https://dumps.wikimedia.org/enwiki/20241020/">recent dump of English Wikipedia</a>. (<a href="https://dumps.wikimedia.org/enwiki/20241101/">https://dumps.wikimedia.org/enwiki/20241101/</a>)</li>
-              <li>We <strong>do not</strong> recommend that you consider the full text/HTML dump of Wikipedia for this assignment, and only the metadata about the articles. However, you could choose to sample the text dump.</li>
-              <li>
-<a href="https://en.wikipedia.org/wiki/Wikipedia:Database_download">Wikipedia maintains a guide</a> on their own data dumps.</li>
-            </ul>
-          </li>
-          <li>If you would like to “bring your own” dataset, see the section “Choosing an alternate dataset” for more information.</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-  <li>
-<strong>Load your dataset into PostgreSQL</strong>. Given the size of your dataset, instead of DataHub you may need to do a local installation of JupyterHub and PostgreSQL &gt;14. More installation details to follow.</li>
-  <li>
 <strong>Load your dataset into a non-relational data system</strong>. Some examples could include: MongoDB, Graph databases (neo4j), Streaming databases (Flink, Kafka), key-value store (Redis, memcached), Spark, Velox, Polars, Apache Data Fusion, Ibis. Be creative here! If you need help with picking a data system, or other feedback in general, feel free to post on Ed.</li>
   <li>
-<strong>Design and analyze a benchmark set of tasks</strong>. Select a representative set of 5 queries (i.e., tasks) that compare the two data system on the following dimensions:
+<strong>Design and analyze a benchmark set of tasks</strong>. Select a representative set of 5 queries (i.e., tasks) that compare the two data systems on the following dimensions:
     <ul>
       <li>Fitness/ergonomics: Is your data system well-designed for the task? How easy is it to complete this task and/or can it even do the task? (i.e., does the system aid you in writing the queries you are trying to write)</li>
       <li>Performance: How much disk storage or memory (RAM) and time resources does each system spend to complete this task?</li>
@@ -464,7 +459,7 @@ Group confirmations will be released on <strong>TBD</strong>.</p>
   </li>
 </ol>
 
-<p><strong>Group work requirement</strong>: You <strong>must be in a team of 3 or 4</strong>. If you’re looking for a group OR if you have a partial/full team, everyone who is looking to do the final project must fill out this <strong><a href="TBD">Team Matching Survey</a></strong> by TBD. Group confirmations will be sent out by <strong>TBD</strong>. Limited exceptions will be made for personal circumstances, or senior/honors thesis work; see the Project Deliverables section for more details.</p>
+<p><strong>Group work requirement</strong>: You <strong>must be in a team of 3 or 4 (ideally)</strong>. If you’re looking for a group OR if you have a partial/full team, please utilize the Team Matching thread on Ed. Your team must be finalized by the checkpoint at 4/18, 5 PM PT and one member must fill out this <strong><a href="https://forms.gle/N4uGtSoGHiqy4eLLA">Final Project Team Form</a></strong>.</p>
 <h3 id="learning-goals">
   
   
@@ -482,15 +477,13 @@ Group confirmations will be released on <strong>TBD</strong>.</p>
   <li>Software Engineering:
     <ul>
       <li>Setting up new tools on your own computer and debugging the error messages that (sometimes) happen</li>
-      <li>Reading documentation for new tools</li>
-      <li>Working with git and GitHub</li>
+      <li>Working with git</li>
     </ul>
   </li>
   <li>Data Engineering:
     <ul>
       <li>Interpreting an unknown dataset</li>
-      <li>Designing a schema / modeling a database</li>
-      <li>Analyzing professional data systems</li>
+      <li>Analyzing data systems for performance</li>
     </ul>
   </li>
   <li>Professional Skills:
@@ -512,11 +505,9 @@ Group confirmations will be released on <strong>TBD</strong>.</p>
 </h2>
     
 
-<p>The goal of this project is to create a performance benchmark to analyze and study two different systems: PostgreSQL and another system of your choice. A performance benchmark is often a standard set of tasks performed on a given workload. In your project, you will define a workload as your dataset, and you will define tasks as queries, materializations, deletions, pipelined tasks—anything that will give you more information about how the systems work.</p>
+<p>The goal of this project is to create a performance benchmark to analyze and study two different systems: PostgreSQL and another system of your choice. A performance benchmark is essentially a standard set of tasks performed on a given dataset. These tasks can span both queries and updates – anything that will give you more information about how the systems work in practice.</p>
 
-<p>Because of the open nature of this project (choice of second data system, workload, and tasks), <strong>for this first version of the project, we suggest a default project</strong> below to constrain your search space. However, you should definitely feel free to explore other options beyond the default project—particularly if you came across a cool system or dataset in lecture or in the wild!</p>
-
-<p>Please see the FAQ if you are on the fence about doing the final project.</p>
+<p>Because of the open nature of this project (choice of second data system, dataset, and tasks), <strong>for this first version of the project, we suggest a default project</strong> below. However, we encourage you to explore other options beyond the default project.</p>
 <h3 id="memo-suggested-default-project">
   
   
@@ -529,12 +520,12 @@ Group confirmations will be released on <strong>TBD</strong>.</p>
 <p>We suggest the following choices for most project teams:</p>
 
 <ul>
-  <li>PostgresSQL</li>
+  <li>PostgreSQL</li>
   <li>Dataset: Yelp</li>
   <li>Compare to: MongoDB</li>
 </ul>
 
-<p>This default project still leaves a lot of room for your team to decide on the set of benchmark tasks. You can also decide what additional entities to build into your project. We recommend looking at <code class="language-plaintext highlighter-rouge">users</code>, <code class="language-plaintext highlighter-rouge">businesses</code> and <code class="language-plaintext highlighter-rouge">reviews</code> if you don’t know where to start. For example, each <code class="language-plaintext highlighter-rouge">user</code> has a list of <code class="language-plaintext highlighter-rouge">friends</code> which could make for some interesting comparisons between SQL and NoSQL systems.</p>
+<p>This default project still leaves a lot of room for your team to decide on the set of benchmark tasks. We recommend looking at <code class="language-plaintext highlighter-rouge">users</code>, <code class="language-plaintext highlighter-rouge">businesses</code> and <code class="language-plaintext highlighter-rouge">reviews</code> if you don’t know where to start. For example, each <code class="language-plaintext highlighter-rouge">user</code> has a list of <code class="language-plaintext highlighter-rouge">friends</code> which could make for some interesting comparisons between SQL and NoSQL systems.</p>
 
 <p><strong>Reducing dataset complexity</strong>: The Yelp dataset (Main, not Photos) is relatively large, about ~10GB when uncompressed. You do not <em><strong>need</strong></em> to load all of the records into your Postgres (or MongoDB) databases. We recommend <em><strong>sampling</strong></em> the Yelp dataset and/or choosing a subset of the database schema to make working with the dataset easier (see <a href="/sp25/assignments/final-project-tips">Final Project Tips</a>). In your written report, you will need to demonstrate that the reduced dataset that you construct for your workload <strong>must meet the minimum requirements</strong> listed in the Choosing an alternate dataset section below.</p>
 <h3 id="choosing-an-alternate-dataset">
@@ -551,19 +542,9 @@ Group confirmations will be released on <strong>TBD</strong>.</p>
 <ul>
   <li>Total uncompressed size ≥ 1GB of data</li>
   <li>Minimum of 1 million records (across all entities)</li>
-  <li>Minimum of 3 distinct types of entities (e.g. users, resources, reviews)</li>
-  <li>Each entity must have at 2 non-primary/non-foreign key attributes</li>
-  <li>There must be at least 2 foreign key relationships (e.g. users who leave reviews, and reviews which belong restaurants)</li>
 </ul>
 
-<p>The data set must be something which is appropriate to write about in a report which is read by the course staff and your teammates. It cannot have “confidential” data (e.g. from a business).</p>
-
-<p>In your written report you will need to demonstrate that your dataset meets these requirements.</p>
-
-<p><strong>How might you decide if an alternate dataset makes sense?</strong>
-If you are looking for alternate datasets, it can be helpful to pick a domain in which you have expertise or deep interest amongst your teammates.</p>
-
-<p>Otherwise, you should consider the clarity and organization of the raw data. We’ve suggested datasets which should minimize the amount of the needed to be spent cleaning and interpreting data—though some of that work is always necessary. Look for data which are well documented, have clearly named attributes, and come in easy-to-parse formats like JSON, CSV or YAML.</p>
+<p>If you are looking for alternate datasets, it can be helpful to pick a domain in which you have expertise or deep interest amongst your teammates.</p>
 <h3 id="another-system-andor-application">
   
   
@@ -573,12 +554,10 @@ If you are looking for alternate datasets, it can be helpful to pick a domain in
 </h3>
     
 
-<p>You’ve already gained experience with Postgres; now you must pick a <em>different</em> data system or application to explore. The data system should help you accomplish some tasks which are different from that of a typical relational database. Some examples could include: MongoDB, Graph databases (neo4j), Streaming databases (Flink, Kafka), key-value store (Redis, memcached), Spark, Velox, Polars, Apache Data Fusion, Ibis, Apache airflow, dbt. Be creative here! If you need help with picking a data system, or other feedback in general, feel free to post on Ed.</p>
-
-<p>Start by exploring your dataset and asking: “Where might a RDMS not be well-suited for storing, analyzing, or processing this dataset?”  This will help guide you towards a tool that will lead to more interesting insights.</p>
+<p>You’ve already gained experience with Postgres; now you must pick a <em>different</em> data system or application to explore. The data system should help you accomplish some tasks which are different from that of a typical relational database. Some examples could include: MongoDB, Graph databases (neo4j), Streaming databases (Flink, Kafka), key-value store (Redis, memcached), Spark, Velox, Polars, Apache Data Fusion, Ibis, Apache airflow, dbt. Be creative here! If you need help with picking a data system, feel free to post on Ed.</p>
 
 <p><strong>How do you decide on a tool/system before using it?</strong>
-Read the docs! Watch some videos. Do a brief search for problems, errors, or user communities. Ideally, you will be able to work with and learn about a tool which has excellent documentation and for which it is easy to search for answers to questions. Much of this research can all happen before you even install the tool. No one is expected to learn new tools simply by guessing the right commands; learning how to use the documentation provided will make the process much easier!</p>
+Read the docs! Ideally, you will be able to work with and learn about a tool which has excellent documentation and for which it is easy to search for answers to questions. No one is expected to learn new tools simply by guessing the right commands; learning how to use the documentation provided will make the process much easier!</p>
 
 <p>You should also consider picking a tool based on its <strong>fitness and ergonomics</strong> for the tasks you want to accomplish. See the Design and Analyze a Benchmark Set of Tasks for more information.</p>
 
@@ -592,21 +571,6 @@ Read the docs! Watch some videos. Do a brief search for problems, errors, or use
   
 </h2>
     
-<h3 id="template-repository">
-  
-  
-    <a href="#template-repository" class="anchor-heading" aria-labelledby="template-repository"><svg viewbox="0 0 16 16" aria-hidden="true"><use xlink:href="#svg-link"></use></svg></a> Template Repository
-  
-  
-</h3>
-    
-
-<p>To get started, <strong>one</strong> team member needs to create a <strong>private</strong> GitHub repository.
-Start from the <a href="https://github.com/new?owner=cal-data-eng&amp;template_name=final-proj&amp;template_owner=cal-data-eng"><strong>DATA 101 Final Project Template</strong></a> (​<a href="https://github.com/new?owner=cal-data-eng&amp;template_name=final-proj&amp;template_owner=cal-data-eng">https://github.com/new?owner=cal-data-eng\&amp;template_name=final-proj\&amp;template_owner=cal-data-eng</a>)</p>
-
-<p>Your project repo should be <strong>private.</strong> After creating your repository, add your teammates as collaborators.</p>
-
-<p>The repository we’ve provided is a light scaffold to get you started. You are free to adapt it for your team’s needs as necessary. However, be careful not to commit very large files to git.</p>
 <h3 id="setup-and-install-your-tools">
   
   
@@ -619,26 +583,6 @@ Start from the <a href="https://github.com/new?owner=cal-data-eng&amp;template_n
 <p>We expect each team member to install tools on their local machines. DataHub is available as a backup. <a href="/sp25/assignments/final-project-tips">Final Project Tips</a> includes some tips for installing tools.</p>
 
 <p>For most tools, like PostgreSQL or MongoDB, you should get started by following the installation instructions in the official documentation.</p>
-<h2 id="design-your-dataset-schema">
-  
-  
-    <a href="#design-your-dataset-schema" class="anchor-heading" aria-labelledby="design-your-dataset-schema"><svg viewbox="0 0 16 16" aria-hidden="true"><use xlink:href="#svg-link"></use></svg></a> Design Your Dataset Schema
-  
-  
-</h2>
-    
-
-<p>Review the documentation for your chosen dataset. Your job will be to design a <em>relational schema</em> for your dataset. You will probably want to inspect the raw documents to determine the <strong>type</strong> (e.g., integer, text) for each attribute.</p>
-
-<p><em><strong>Note</strong></em>: We do not require that your schema be <strong>purely</strong> relational. You may choose to make use of PostgreSQL’s support for <code class="language-plaintext highlighter-rouge">jsonb</code> and <code class="language-plaintext highlighter-rouge">array</code> column types.</p>
-
-<p>You may choose to simply the suggested datasets based on the type of analysis you do. However, any simplification must still meet the minimum requirements for datasets as listed in the section “Choosing an alternate dataset”.</p>
-
-<p>A good schema will have clear names for tables and columns following the <a href="https://data101.org/notes/appendix/sql-style.html">DATA 101 SQL Style Guide</a>, and will use primary and foreign keys as appropriate. In your schema you should also consider what columns should be indexed, and whether any additional constraints (like <code class="language-plaintext highlighter-rouge">NOT NULL</code>) would be helpful.</p>
-
-<p>We suggest you start not by writing the DDL, but by mapping out a (simplified) ER Diagram. Tools like <a href="https://www.lucidchart.com/pages/">Lucidchart</a> or Google Drawing might be helpful. You can also try tools like <a href="http://dbdiagram.io">dbdiagram.io</a> which allow you to use SQL to generate the diagram if you prefer to work that way!</p>
-
-<p>The project checkpoint will ask for just <em>one</em> of your schema or the ER Diagram, but the final report will ask that you submit <strong>both</strong> components. It is totally OK to adapt your schema as you learn more about your dataset, and for the schemas included in your checkpoint and final reports to not be exactly the same.</p>
 
 <p><a href="#top">Jump to Top</a></p>
 <hr>
@@ -680,16 +624,10 @@ Start from the <a href="https://github.com/new?owner=cal-data-eng&amp;template_n
 <strong>Performance</strong>: How much disk storage or memory (RAM) and time resources does each system spend to complete this task?</li>
 </ul>
 
-<p>Other requirements for the five tasks:</p>
-
-<ul>
-  <li>3 SQL queries should be runnable on Postgres.</li>
-  <li>2 queries should be runnable on your second system.</li>
-  <li>Ideally, all five tasks can be run on both systems so that you can compare both fitness/ergonomics and performance. However, you may find midway through that, say, some SQL queries can’t be implemented in the second system, or vice versa. See the apples to oranges section below.</li>
-</ul>
+<p>At least 3 of the 5 queries (if not all!) must be executable on both systems so you can say something meaningful about fitness/ergonomics and performance comparisons.</p>
 
 <p><strong>Choosing tasks</strong>
-The tasks you select should help to best demonstrate the capacities of systems you are comparing. For example, consider not just the execution time of an individual query, but the time that it took to load data in, the memory (RAM) or storage uses of that particular system. If you were to consistently integrate new data, how would this system perform? What parameters does each system provide that allow you to improve performance of a given task or workload? Etc.</p>
+The tasks you select should help to best demonstrate the capacities of systems you are comparing. For example, consider not just the execution time of an individual query, but the time that it took to load data in, the memory (RAM) or storage utilization of that particular system. What parameters (e.g., indexes, views, query optimization knobs) does each system provide that allow you to improve performance of a given task or workload?</p>
 
 <p><strong>Fitness and “ergonomics”</strong>
 The <strong>fitness</strong> of a tool describes how well suited a tool is to a specific task. When comparing tools, one of your tasks will be to compare their fitness for the particular problem you are trying to solve. For example, both MongoDB and PostgreSQL can store and query semi-structured data, but they take very different approaches.</p>
@@ -697,7 +635,7 @@ The <strong>fitness</strong> of a tool describes how well suited a tool is to a 
 <p>When engineers talk about “<strong>ergonomics</strong>” (or affordances) they are referring to whether a particular tool makes it easy or intuitive to accomplish a specific task. One example: Jupyter Notebooks provide good ergonomics for exploring data. Another example: SQL databases make <code class="language-plaintext highlighter-rouge">JOIN</code>ing data convenient, but MongoDB does not.</p>
 
 <p><strong>Comparing apples to oranges</strong>
-It can be tricky to compare a RDBMS to a NoSQL DB when they are <em>designed</em> to solve different problems. Think holistically about the comparisons, both for fitness, ergonomics, and performance. Ultimately, if a task cannot be implemented in one system, you should still reflect on why the task selection was a good choice, and what barriers/constraints you found in the other system.</p>
+It can be tricky to compare a RDBMS to (say) a NoSQL DB when they are <em>designed</em> to solve different problems. Think holistically about the comparisons, both for fitness, ergonomics, and performance. Ultimately, if a task cannot be implemented in one system, you should still reflect on why the task selection was a good choice, and what barriers/constraints you found in the other system.</p>
 
 <p><a href="#top">Jump to Top</a></p>
 <hr>
@@ -710,9 +648,9 @@ It can be tricky to compare a RDBMS to a NoSQL DB when they are <em>designed</em
 </h2>
     
 
-<p>You are expected to write a report to present your project findings such that another person could understand what are the tradeoffs between the two data systems you analyzed, and (perhaps more importantly) how you conducted your analysis. Your report therefore should include diagrams, code snippets, tables/visualizations (where appropriate), and broader reflections/recommendations about the usability of the systems themselves (ease of setup/debugging, etc.).</p>
+<p>You are expected to write a report that describes the tradeoffs between the two data systems you analyzed, and (perhaps more importantly) how you conducted your analysis. Your report therefore should include diagrams, code snippets, tables/visualizations (where appropriate), and broader reflections/recommendations about the usability of the systems themselves (ease of setup/debugging, etc.). You are required to show screenshots of at least one query in action on both systems.</p>
 
-<p>You are required to submit both a checkpoint report (as part of the project checkpoint) and a final report. Please see the Deliverables section below for more details. We have included <strong>report templates in the project repository</strong>; you should feel free to start from these, and use your team’s preferred tool (e.g., Overleaf or Google Docs) to write the report.</p>
+<p>You are required to submit both a checkpoint report (as part of the project checkpoint) and a final report. Please see the Deliverables section below for more details. You should use your team’s preferred tool (e.g., Overleaf or Google Docs) to write the report.</p>
 <h3 id="report-components">
   
   
@@ -729,30 +667,9 @@ It can be tricky to compare a RDBMS to a NoSQL DB when they are <em>designed</em
 <strong>Dataset Selection</strong>. Explain your choice of dataset, and any concessions you needed to make.
     <ul>
       <li>
-<code class="language-plaintext highlighter-rouge">both</code> If you choose to use your own dataset, describe the data source and download process, and demonstrate that it meets the requirements laid out in the spec, and provide a link so that the staff can access the dataset.
-        <ul>
-          <li>
-<code class="language-plaintext highlighter-rouge">checkpoint</code> If it is a private dataset (e.g., IRB-restricted, personally identifiable information, etc.), you should not give dataset access to course staff. Instead, please send an email to data101@ and cc the instructors; we may ask to set up a short Zoom call with you.</li>
-        </ul>
-      </li>
+<code class="language-plaintext highlighter-rouge">both</code> If you choose to use your own dataset, describe the data source and download process, and demonstrate that it meets the requirements laid out in the spec.</li>
       <li>
-<code class="language-plaintext highlighter-rouge">both</code> Decide whether to sample/truncate your dataset, and briefly explain your reasoning. If you choose to sample/truncate your dataset, describe how you did so. Do not include code here; you will do so in the later sections.</li>
-    </ul>
-  </li>
-  <li>
-<strong>Database structure</strong>.
-    <ul>
-      <li>
-<code class="language-plaintext highlighter-rouge">checkpoint</code> A working database schema for the relational component of your dataset. This can be an ER diagram, or output from <code class="language-plaintext highlighter-rouge">psql</code>.</li>
-      <li>
-<code class="language-plaintext highlighter-rouge">final</code> For your Postgres system:
-        <ul>
-          <li>An ER Diagram for your dataset, and</li>
-          <li>The complete database schema. For each table you create, share the result of executing <code class="language-plaintext highlighter-rouge">\d [table_name]</code> in a <code class="language-plaintext highlighter-rouge">psql</code> console.</li>
-        </ul>
-      </li>
-      <li>
-<code class="language-plaintext highlighter-rouge">final</code> Any additional adjustments you needed to make for your non-relational data system, including diagrams, snapshots, and code as needed. For example, if you chose MongoDB, you should list the collections that you created and the types of documents that you put in those collections. On the other hand, if you are using a pipeline tool, you should describe how you structured that tool.</li>
+<code class="language-plaintext highlighter-rouge">final</code> Decide whether to sample/truncate your dataset, and briefly explain your reasoning. If you choose to sample/truncate your dataset, describe how you did so. Do not include code here; you will do so in the later sections.</li>
     </ul>
   </li>
   <li>
@@ -770,7 +687,7 @@ It can be tricky to compare a RDBMS to a NoSQL DB when they are <em>designed</em
       <li>
 <code class="language-plaintext highlighter-rouge">final</code> Describe how you loaded data into your other system; include code snippets, diagrams, etc.</li>
       <li>
-<code class="language-plaintext highlighter-rouge">final</code> Describe additional transformations you applied to your data. If you sampled, what techniques and tools did you use? What ways did you clean the data or address missing values? If your original data source was not in a rectangular format (e.g., JSON or XML), how did you translate it into a relational format? Did you have to make concessions in your database setup? For example, were you unable to translate certain parts of your dataset in either of the data systems? (You will have a chance to reflect on these tradeoffs later in your report.)  Did you have to do any entity resolution across multiple parts of your dataset?</li>
+<code class="language-plaintext highlighter-rouge">final</code> Describe additional transformations you applied to your data. If you sampled, what techniques and tools did you use? What ways did you clean the data, address missing values, or resolve entities? Did you change the shape of the data in any way (e.g., make it ``rectangular’’)? Did you have to make concessions in your database setup? For example, were you unable to translate certain parts of your dataset in either of the data systems? (You will have a chance to reflect on these tradeoffs later in your report.)</li>
     </ul>
   </li>
   <li>
@@ -779,12 +696,10 @@ It can be tricky to compare a RDBMS to a NoSQL DB when they are <em>designed</em
       <li>
 <code class="language-plaintext highlighter-rouge">checkpoint</code> An example of <strong>at least one query</strong> showing data from this dataset. You should explain what task the query is trying to accomplish, and why this task might be a reasonable approach for understanding your data system. For the checkpoint, this query does not need to be very complex.</li>
       <li>
-<code class="language-plaintext highlighter-rouge">final</code> The full set of queries: <strong>3 - 4 queries</strong> in SQL that demonstrate your dataset, and at least <strong>2 queries</strong> of your non-relational database. For each query, you should:
+<code class="language-plaintext highlighter-rouge">final</code> The full set of <strong>5</strong> queries: at least <strong>3 queries</strong> must execute in both systems. Include a screenshot of one query running in each system. For each query, you should:
         <ul>
           <li>Explain what task the query is trying to accomplish</li>
           <li>Explain why this is a reasonable tasks for understanding or evaluating your chosen data system</li>
-          <li>Include the code</li>
-          <li>(If useful for further explanation) include the output (or sample output if it is too large)</li>
           <li>An analysis of its performance. What could make it faster? What did you try to make it faster? For example, if you added an index, show the before and after.</li>
         </ul>
       </li>
@@ -797,8 +712,6 @@ It can be tricky to compare a RDBMS to a NoSQL DB when they are <em>designed</em
   <li>
 <code class="language-plaintext highlighter-rouge">final, optional</code> <strong>Additional tools used</strong>. If you used any additional tools beyond the two data systems, describe them here and why they were helpful (or not).</li>
   <li>
-<code class="language-plaintext highlighter-rouge">final</code> <strong>Reflections</strong>. If someone else (e.g., your manager or labmate) were to consider these tools for similar tasks and/or workloads, what recommendations would you give them, and why? Think broadly beyond just the task/workload performance and consider the usability and ergonomics of the systems themselves: ease of setup, learning to use the tool, how useful it was to design and execute tasks, debugging capabilities, what worked well, what didn’t work so well, etc.</li>
-  <li>
 <code class="language-plaintext highlighter-rouge">final</code> <strong>Individual Reflections</strong>
     <ul>
       <li>Each team member should include a paragraph about your personal reflections on the project. What did you learn? What did you find most exciting, or perhaps most frustrating?</li>
@@ -808,7 +721,7 @@ It can be tricky to compare a RDBMS to a NoSQL DB when they are <em>designed</em
   <li>
 <code class="language-plaintext highlighter-rouge">final, optional</code> If relevant, include a reference page with citations of all outside sources used.</li>
   <li>
-<code class="language-plaintext highlighter-rouge">final, optional</code> <strong>Appendix</strong>. Does not count towards your page limit, but could include more examples of your data, or example query output, or other sorts of visualizations and descriptions you may find useful to supplement the main report.</li>
+<code class="language-plaintext highlighter-rouge">final, optional</code> <strong>Appendix</strong>. Does not count towards your page limit, but could include more examples of your data, or example query output, or other sorts of visualizations and descriptions you may find useful to supplement the main report; don’t expect that instructional staff will read this, however.</li>
 </ul>
 
 <p><a href="#top">Jump to Top</a></p>
@@ -821,68 +734,46 @@ It can be tricky to compare a RDBMS to a NoSQL DB when they are <em>designed</em
   
 </h2>
     
-<h3 id="1-team-matching-survey-due-tbd">
+<h3 id="1-checkpoint-team-confirmation-and-checkpoint-report-due-418-5-pm-pt">
   
   
-    <a href="#1-team-matching-survey-due-tbd" class="anchor-heading" aria-labelledby="1-team-matching-survey-due-tbd"><svg viewbox="0 0 16 16" aria-hidden="true"><use xlink:href="#svg-link"></use></svg></a> 1. Team Matching Survey (due TBD)
-  
-  
-</h3>
-    
-
-<p><strong>You must work in groups of three or four, and you must fill out the <a href="TBD">Team Matching Survey</a></strong> by TBD:</p>
-
-<ul>
-  <li>If you don’t have a group, you must <strong>individually</strong> fill out the form and you will be randomly assigned a group.</li>
-  <li>If you have a partial group (e.g., a pair), <strong>one person</strong> must fill out the form by the deadline, and you will be randomly assigned 1-2 additional members.</li>
-  <li>If you do have a full group, <strong>one person</strong> must fill out the form by the deadline to declare your group.</li>
-  <li>Group confirmations will be sent out latest .</li>
-  <li>Please note that you will be evaluating your group members at the end of the project: we strongly encourage you to discuss and resolve any conflicts with your group members sooner rather than later.</li>
-</ul>
-
-<p>In very special circumstances (e.g., extenuating personal circumstances or an ongoing personal project such as a senior thesis), we will allow students to work alone. If you believe you qualify for this exception, please email <a href="mailto:data101@berkeley.edu">data101@berkeley.edu</a> AND cc instructors ASAP with relevant information/documentation. Do not assume the exception has been granted until you receive a confirmation email.</p>
-<h3 id="2-checkpoint-checkpoint-report-and-github-repository-due-tbd">
-  
-  
-    <a href="#2-checkpoint-checkpoint-report-and-github-repository-due-tbd" class="anchor-heading" aria-labelledby="2-checkpoint-checkpoint-report-and-github-repository-due-tbd"><svg viewbox="0 0 16 16" aria-hidden="true"><use xlink:href="#svg-link"></use></svg></a> 2. Checkpoint: Checkpoint Report and GitHub Repository (due TBD)
+    <a href="#1-checkpoint-team-confirmation-and-checkpoint-report-due-418-5-pm-pt" class="anchor-heading" aria-labelledby="1-checkpoint-team-confirmation-and-checkpoint-report-due-418-5-pm-pt"><svg viewbox="0 0 16 16" aria-hidden="true"><use xlink:href="#svg-link"></use></svg></a> 1. Checkpoint: Team Confirmation and Checkpoint Report (due 4/18, 5 PM PT)
   
   
 </h3>
     
 
-<p>The checkpoint report is a relatively short report to make sure your team is on track. Your team will submit one <strong>GitHub Repository and a written report</strong> to Gradescope. See the <a href="#present-your-findings">Present Your Findings</a> section for report components.</p>
+<p>You must work in groups of three or four for this project. Note that you will be evaluating your group members at the end of the project: we strongly encourage you to discuss and resolve any conflicts with your group members sooner rather than later.</p>
 
-<p>Your checkpoint report is <strong>expected to be about <s>500-800</s> 700-1600 words</strong> and should include code snippets, charts, or tables as necessary. You may choose to write your report in your team’s preferred tool (e.g., Overleaf or Google Docs). This file should be saved as <code class="language-plaintext highlighter-rouge">0-checkpoint.pdf</code> and included in your GitHub repository.</p>
+<p>In very special circumstances (e.g., extenuating personal circumstances), we will allow students to work alone. If you believe you qualify for this exception, please email <a href="mailto:data101@berkeley.edu">data101@berkeley.edu</a> AND cc instructor(s) ASAP with relevant information/documentation. Do not assume the exception has been granted until you receive a confirmation email.</p>
 
-<p>Your GitHub repository submission should include your report, and all code written to help produce the report. You should not include any raw dataset data in your GitHub repo.</p>
+<p>The checkpoint report is a relatively short report to make sure your team is on track. Your team will submit one <strong>written report</strong> to Gradescope. See the <a href="#present-your-findings">Present Your Findings</a> section for report components.</p>
 
-<p>You will <strong>also</strong> be required to individually fill out a Google Form asking how the project is going in general. While we won’t share your comments to this Form directly with anyone else in your group, course staff will reach out to any groups that raise issues, so that we can help you resolve them and work productively with your group.</p>
+<p>Your checkpoint report is <strong>expected to be at most 2 pages</strong> and could include code snippets, charts, or tables as necessary. You may choose to write your report in your team’s preferred tool (e.g., Overleaf or Google Docs)..</p>
+
+<p>One team member will <strong>also</strong> be required to fill out the <a href="https://forms.gle/N4uGtSoGHiqy4eLLA">Final Project Team Form</a>, which confirms team composition and asks about how the project is going in general.</p>
+
+<p>Be aware that team compositions are final: if you commit to participating in a team, you are expected to follow through on that commitment all the way to final project submission, or else you will be subject to penalties on your final grade, as described below.</p>
 
 <p>You may use up to 2 slip days on the checkpoint submission.</p>
-<h3 id="3-final-report-and-github-repository-due-tbd">
+<h3 id="2-final-report-due-52-5-pm-pt">
   
   
-    <a href="#3-final-report-and-github-repository-due-tbd" class="anchor-heading" aria-labelledby="3-final-report-and-github-repository-due-tbd"><svg viewbox="0 0 16 16" aria-hidden="true"><use xlink:href="#svg-link"></use></svg></a> 3. Final Report and GitHub Repository (due TBD)
+    <a href="#2-final-report-due-52-5-pm-pt" class="anchor-heading" aria-labelledby="2-final-report-due-52-5-pm-pt"><svg viewbox="0 0 16 16" aria-hidden="true"><use xlink:href="#svg-link"></use></svg></a> 2. Final Report (due 5/2, 5 PM PT)
   
   
 </h3>
     
 
-<p>Your final report is expected to build upon much of your checkpoint report. Of course, some of your expectations from your checkpoint will likely need to be revised. Your team will submit <strong>one GitHub repository and written report</strong> to Gradescope. see the <a href="#present-your-findings">Present Your Findings</a> section for report components.</p>
+<p>Your final report is expected to build upon much of your checkpoint report. Of course, some of your expectations from your checkpoint will likely need to be revised. Your team will submit <strong>one written report</strong> to Gradescope. see the <a href="#present-your-findings">Present Your Findings</a> section for report components.</p>
 
-<p>Your final report is <strong>expected to be about <s>1800-2500</s> 2700-4000 words long</strong> and should include code snippets, charts, tables, and screenshots as necessary. You may choose to write your report in your team’s preferred tool (e.g., Overleaf or Google Docs). This file should be named <code class="language-plaintext highlighter-rouge">1-final-report.pdf</code> and should be committed to your GitHub repo.</p>
-
-<p>Including diagrams and/or code, we expect your report to be <strong><s>9–12</s> 13-28 pages</strong>. We won’t be strictly enforcing these word/page limits, but reports that are much longer are subject to a penalty; reports that are much shorter are probably missing important discussion.</p>
-
-<p>Your GitHub repository submission should include your report, and all code written to help produce the report. You should not include any raw dataset data in your GitHub repo.</p>
+<p>Your final report is <strong>expected to at most 5 pages long</strong> and should include code snippets, charts, tables, and screenshots as necessary. It could also include an optional appendix. You may choose to write your report in your team’s preferred tool (e.g., Overleaf or Google Docs).</p>
 
 <p>You may use up to 2 slip days on the final report/repository submission.</p>
-
-<p><em>We will be releasing an outline template for the final report in the template repository on</em> <em>.</em></p>
-<h3 id="4-team-member-assessment-due-tbd">
+<h3 id="3-team-member-assessment-due-52-5-pm-pt">
   
   
-    <a href="#4-team-member-assessment-due-tbd" class="anchor-heading" aria-labelledby="4-team-member-assessment-due-tbd"><svg viewbox="0 0 16 16" aria-hidden="true"><use xlink:href="#svg-link"></use></svg></a> 4. Team Member Assessment (due TBD)
+    <a href="#3-team-member-assessment-due-52-5-pm-pt" class="anchor-heading" aria-labelledby="3-team-member-assessment-due-52-5-pm-pt"><svg viewbox="0 0 16 16" aria-hidden="true"><use xlink:href="#svg-link"></use></svg></a> 3. Team Member Assessment (due 5/2, 5 PM PT)
   
   
 </h3>
@@ -901,23 +792,32 @@ It can be tricky to compare a RDBMS to a NoSQL DB when they are <em>designed</em
 </h2>
     
 
-<p>The final project is <strong>optional</strong>; if you submit it, it can count for up to <a href="/sp25/syllabus">10% of your final grade</a>. Note for Fall 2024, you will still need to take the final exam, so please take this into consideration when deciding whether to do this team project.</p>
+<p>The final project is <strong>optional</strong>; if you submit it, it can count for up to <a href="/sp25/syllabus">10% of your final grade</a>. If you choose to opt out of the project midway or submit to the checkpoint but not the final report, you will be deducted <a href="/sp25/syllabus">1% of your final grade</a>.</p>
 
-<p>The final project is worth 80 points:</p>
+<p>The final project is worth 75 points:</p>
 
 <ul>
-  <li>Initial Team Declaration Form [2 points]</li>
-  <li>Checkpoint [15 Points]</li>
+  <li>Checkpoint [10 Points]</li>
   <li>Final Report and Submission [60 points]
     <ul>
       <li>Report Structure, Writing, and Content [15/60 points]</li>
       <li>Tasks and Analysis [45/60 points]</li>
     </ul>
   </li>
-  <li>Final Peer Assessment Form [3 points]</li>
+  <li>Final Peer Assessment Form [5 points]</li>
 </ul>
 
-<p>A reasonable report would follow the provided scaffold in the template repository. A more detailed rubric will be provided closer to the checkpoint.</p>
+<p>A reasonable report would follow the provided scaffold in the template repository.</p>
+<h2 id="grading-penalties-if-you-drop-midway">
+  
+  
+    <a href="#grading-penalties-if-you-drop-midway" class="anchor-heading" aria-labelledby="grading-penalties-if-you-drop-midway"><svg viewbox="0 0 16 16" aria-hidden="true"><use xlink:href="#svg-link"></use></svg></a> Grading penalties if you drop midway
+  
+  
+</h2>
+    
+
+<p>If you submit the team confirmation form at the checkpoint, but opt out of working on the project at any point after that, you will be assessed a penalty of 1% on your final grade. This penalty is enforced given this is an optional group project, to ensure that students don’t exit groups midway through the project period after committing to it early. We don’t want your teammates to suffer! If you are unsure about whether you are planning to follow through on the project, discuss upfront with your team and only join a team if you are willing to do so.</p>
 
 <p><a href="#top">Jump to Top</a></p>
 <hr>
@@ -936,7 +836,6 @@ It can be tricky to compare a RDBMS to a NoSQL DB when they are <em>designed</em
 
 <ul>
   <li>Cite any sources when using code that was not generated by your or your teammates.</li>
-  <li>You should cite code in your GitHub repository using code comments.</li>
 </ul>
 
 <p>You may:</p>
@@ -976,7 +875,6 @@ It can be tricky to compare a RDBMS to a NoSQL DB when they are <em>designed</em
   <li>Don’t be afraid to reach out to course staff and come to office hours early if your group is struggling to set up systems or select/clean/load in data. You’ll likely be able to get more focused help at instructor <strong>content</strong> office hours.</li>
   <li>Even if you divide up the work, it’s often helpful to have all group members contribute to brainstorming, reviewing results, and discussing how best to write up the report.</li>
   <li>If you have concerns with your group members, communicate them earlier: don’t wait until the last minute! It’s much easier to resolve issues and improve collaboration early than the night before the deadline.</li>
-  <li>As part of the checkpoint, we’ll ask each individual how your project is going. While we won’t share your comments directly with anyone else in your group, course staff will reach out to any groups that raise issues, so that we can help you resolve them and work productively with your group.</li>
 </ul>
 
 <p><a href="#top">Jump to Top</a></p>
@@ -995,13 +893,13 @@ It can be tricky to compare a RDBMS to a NoSQL DB when they are <em>designed</em
 
   <p>Because we have a final exam for all students this semester, we recommend that you only do this optional final project if you have the capacity and motivation in this upcoming month to work in a team and produce a good report and solid results.</p>
 
-  <p>If you are worried about your midterm grade, come talk to us. We’ll recommend some tips for studying for the final exam. If you would like to include this project on your resume, go for it. This project page (and the template repository) will be up past the end of the semester, so we recommend this as a reasonable personal project, say, over winter break, if that’s when you have more capacity.</p>
+  <p>If you are worried about your midterm grade, come talk to us. We’ll recommend some tips for studying for the final exam. If you would like to include this project on your resume, go for it. This project page will be up past the end of the semester, so we recommend this as a reasonable personal project, say, over winter break, if that’s when you have more capacity.</p>
 </details>
 
 <details>
   <summary>Can the final project lower my grade?</summary>
 
-  <p>No. We will compute the maximum of both grading options in the class. See the <a href="https://data101.org/fa24/syllabus/">Syllabus</a> for more information.</p>
+  <p>No. We will compute the maximum of both grading options in the class. Note that if you submit to the checkpoint but decide to opt out of the final project, you will be subject to a 1% grade deduction overall, relative to the situation where you didn't participate in the project at all. See the <a href="https://data101.org/sp25/syllabus/">Syllabus</a> for more information.</p>
 </details>
 
 <details>
@@ -1011,16 +909,6 @@ It can be tricky to compare a RDBMS to a NoSQL DB when they are <em>designed</em
 
   <p>
     No.
-  </p>
-</details>
-
-<details>
-  <summary>
-    What if I decide not to do the final project?
-  </summary>
-
-  <p>
-    Please let us (via instructors, cc staff email <a href="mailto:data101@berkeley.edu">data101@berkeley.edu</a>) AND your group know ASAP.
   </p>
 </details>
 
@@ -1036,21 +924,11 @@ It can be tricky to compare a RDBMS to a NoSQL DB when they are <em>designed</em
 
 <details>
   <summary>
-    Can I make our team repository public after the end of the semester?
-  </summary>
-
-  <p>
-    We may reuse parts of this final project for next semester, so <b>we prefer that you keep your project repositories private</b>. However, you should definitely feel free to publicly share your team’s written report, provided that all your team members consent! One suggestion is to make an empty GitHub repository that holds your report PDF, with a README.md that tells people who come across your repository that code is available privately upon request.
-  </p>
-</details>
-
-<details>
-  <summary>
     Can I get project help during office hours?
   </summary>
 
   <p>
-    We can offer general design and debugging tips during office hours, but we likely won't be able to help debug specific code. Instructors have opened up project office hours; please check the office hour calendar for more information.
+    We can offer general tips during office hours, but we likely won't be able to help debug specific code. 
   </p>
 </details>
 
