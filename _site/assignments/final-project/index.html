@@ -420,28 +420,29 @@
 
 <p>You will submit a written report, where your analysis will include the following steps:</p>
 
-<p>1.<strong>Load your dataset into PostgreSQL</strong>. Given the size of your dataset, instead of DataHub you may need to do a local installation of JupyterHub and PostgreSQL &gt; 14. More installation details to follow.</p>
-<ul>
-  <li>We have curated <strong>a list of suggested datasets</strong> to use for your project, but you are also welcome to select an external dataset:
+<ol>
+  <li>
+<strong>Load your dataset into PostgreSQL</strong>. Given the size of your dataset, instead of DataHub you may need to do a local installation of JupyterHub and PostgreSQL &gt; 14. More installation details to follow.
     <ul>
-      <li>Yelp: <a href="https://www.yelp.com/dataset">https://www.yelp.com/dataset</a>
-</li>
-      <li>Open Library: <a href="https://openlibrary.org/developers/dumps">https://openlibrary.org/developers/dumps</a>
-</li>
-      <li>Wikipedia: <a href="https://dumps.wikimedia.org/">https://dumps.wikimedia.org/</a>
+      <li>We have curated <strong>a list of suggested datasets</strong> to use for your project, but you are also welcome to select an external dataset:
         <ul>
-          <li>You will likely want to start with a <a href="https://dumps.wikimedia.org/enwiki/20241020/">recent dump of English Wikipedia</a>. (<a href="https://dumps.wikimedia.org/enwiki/20241101/">https://dumps.wikimedia.org/enwiki/20241101/</a>)</li>
-          <li>We <strong>do not</strong> recommend that you consider the full text/HTML dump of Wikipedia for this assignment, and only the metadata about the articles. However, you could choose to sample the text dump.</li>
-          <li>
+          <li>Yelp: <a href="https://www.yelp.com/dataset">https://www.yelp.com/dataset</a>
+</li>
+          <li>Open Library: <a href="https://openlibrary.org/developers/dumps">https://openlibrary.org/developers/dumps</a>
+</li>
+          <li>Wikipedia: <a href="https://dumps.wikimedia.org/">https://dumps.wikimedia.org/</a>
+            <ul>
+              <li>You will likely want to start with a <a href="https://dumps.wikimedia.org/enwiki/20241020/">recent dump of English Wikipedia</a>. (<a href="https://dumps.wikimedia.org/enwiki/20241101/">https://dumps.wikimedia.org/enwiki/20241101/</a>)</li>
+              <li>We <strong>do not</strong> recommend that you consider the full text/HTML dump of Wikipedia for this assignment, and only the metadata about the articles. However, you could choose to sample the text dump.</li>
+              <li>
 <a href="https://en.wikipedia.org/wiki/Wikipedia:Database_download">Wikipedia maintains a guide</a> on their own data dumps.</li>
+            </ul>
+          </li>
+          <li>If you would like to “bring your own” dataset, see the section “Choosing an alternate dataset” for more information.</li>
         </ul>
       </li>
-      <li>If you would like to “bring your own” dataset, see the section “Choosing an alternate dataset” for more information.</li>
     </ul>
   </li>
-</ul>
-
-<ol>
   <li>
 <strong>Load your dataset into a non-relational data system</strong>. Some examples could include: MongoDB, Graph databases (neo4j), Streaming databases (Flink, Kafka), key-value store (Redis, memcached), Spark, Velox, Polars, Apache Data Fusion, Ibis. Be creative here! If you need help with picking a data system, or other feedback in general, feel free to post on Ed.</li>
   <li>

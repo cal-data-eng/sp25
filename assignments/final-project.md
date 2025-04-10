@@ -51,7 +51,7 @@ If you are interested in completing this optional final project, we encourage yo
 
 You will submit a written report, where your analysis will include the following steps:
 
-1.**Load your dataset into PostgreSQL**. Given the size of your dataset, instead of DataHub you may need to do a local installation of JupyterHub and PostgreSQL \> 14. More installation details to follow.
+1. **Load your dataset into PostgreSQL**. Given the size of your dataset, instead of DataHub you may need to do a local installation of JupyterHub and PostgreSQL \> 14. More installation details to follow.
    * We have curated **a list of suggested datasets** to use for your project, but you are also welcome to select an external dataset:
      * Yelp: [https://www.yelp.com/dataset](https://www.yelp.com/dataset)
      * Open Library: [https://openlibrary.org/developers/dumps](https://openlibrary.org/developers/dumps)
