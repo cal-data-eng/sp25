@@ -15,7 +15,7 @@ lec_info: TuTh 9:30am, Lewis 100
 # Syllabus
 {:.no_toc}
 
-## Table of contents
+## Table of Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -116,7 +116,7 @@ This course has two exams:
 
 ### Final Project
 
-We will have an **optional** final course project this semester. This will be an open-ended exploration of data systems, and you will submit a written final report. Details to be released after the midterm.
+We will have an **optional** final course project this semester. This will be an open-ended exploration of data systems, and you will submit a written final report. <s>Details to be released after the midterm.</s> Released!
 
 ### Office Hours
 
@@ -135,9 +135,10 @@ Letter grades for the course will be based on your overall score in the class. T
 | Homework Assignments | 18% | 18% | (3.6% each) No drops; see [Late Policy](#late-policy) |
 | Midterm | 15% | 10% |     |
 | Final Exam | 25% | 20% | Final is cumulative. |
-| Final Project | -- | 10% | Optional |
+| Final Project | -- | 10% | Optional. See midway drop penalty below |
 
-If you choose to do the project, your final grade will be the maximum of the two grading schemes.
+If you choose to do the project, your final grade will be the maximum of the two grading schemes. If you submit the team confirmation form at the checkpoint, but opt out of working on the project at any point after that, you will be assessed a penalty of 1% on your final grade.
+
 For Info 258 students, the grading scheme will be the one involving the final project.
 
 <!--Letter grades will be based on a combination of absolute cutoffs and the distribution of overall scores. Towards the end of the term, we will make three guarantees: "An overall score of at least x will result in a grade of at least C-; at least y will result in at least B-; at least z will result in at least A-." The thresholds x, y, and z will depend on this term’s performance.
