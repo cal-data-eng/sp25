@@ -31,7 +31,7 @@ team_form: https://forms.gle/N4uGtSoGHiqy4eLLA
 
 * Jump to [Getting Started](#getting-started)
 * [Final Project Tips]({{site.baseurl}}/assignments/final-project-tips)
-* [Template Final Report](TBA){:target="\_blank"}
+* Template Final Report (TBA)
 * Checkpoint Gradescope Submissions:
   * [Checkpoint Submission [Group]][fp_repo_checkpoint]
   * [Final Submission [Group]][fp_repo_submission]
