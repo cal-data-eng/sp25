@@ -603,7 +603,7 @@
   },"86": {
     "doc": "Home",
     "title": "Week 12",
-    "content": "Tue 4/8 Lecture 19 MongoDB II Course Notes Wed 4/9 Homework 4 Due, 5pm Thu 4/10 Lecture 20 Data Ops and Pipelines Course Notes Discussion 9 TBA Solution ",
+    "content": "Tue 4/8 Lecture 19 MongoDB II Course Notes Wed 4/9 Homework 4 Due, 5pm Thu 4/10 Lecture 20 Data Ops and Pipelines Course Notes Discussion 9 MongoDB II, Data Operations Solution ",
     "url": "/sp25/#week-12",
     
     "relUrl": "/#week-12"
@@ -624,7 +624,7 @@
   },"89": {
     "doc": "Home",
     "title": "Week 15",
-    "content": "Tue 4/29 Lecture 25 Parallel and Distributed Computing, CAP Theorem, VMs End-of-Semester Form Wed 4/30 Homework 5 Due, 5pm Thu 5/1 Lecture 26 Graphs Databases and Knowledge Bases Fri 5/2 Project 5 Final Report due, 5pm ",
+    "content": "Tue 4/29 Lecture 25 Parallel and Distributed Computing End-of-Semester Form Wed 4/30 Homework 5 Due, 5pm Thu 5/1 Lecture 26 Graphs Databases and Knowledge Bases Fri 5/2 Project 5 Final Report due, 5pm ",
     "url": "/sp25/#week-15",
     
     "relUrl": "/#week-15"
