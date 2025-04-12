@@ -15,7 +15,7 @@ Thu 4/10
 : {% lec 20 %}
   : [Course Notes](https://data101.org/notes/9-data_pipelines/index.html)
 : {% disc 9 %} [MongoDB II, Data Operations](https://drive.google.com/file/d/1UXowTo-vfAu-KTLcUW05VinNMSZvUxD6/view?usp=sharing)
-  : Solution
+  : [Solution](https://drive.google.com/file/d/1j9drX9-Lf3j5orC6QIBDXv-9iqXF3cTO/view?usp=sharing)
   
 <!--
 Thu 8/29
