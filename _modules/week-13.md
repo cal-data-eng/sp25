@@ -6,12 +6,14 @@ Status: Active
 
 Tue 4/15
 : {% lec 21 %}
-
+  : [Course Notes](https://data101.org/notes/12-sampling/sampling.html#reservori-sampling)
+  
 Thu 4/17
 : {% lec 22 %}
+  : [Course Notes](https://data101.org/notes/7-transactions/transactions.html)
 
 Fri 4/18
-: {% proj_due 4 %} Due, 5pm
+: {% proj_due 4 %} Extended -- Due Sunday 5pm
 : {% proj_due 5 %} Checkpoint due, 5pm
 : {% hw_rel 5 %} Homework 5
   : Due Wed 4/30, 5pm
