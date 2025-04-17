@@ -17,7 +17,7 @@ Fri 4/18
 : {% proj_due 5 %} Checkpoint due, 5pm
 : {% hw_rel 5 %} Homework 5
   : Due Wed 4/30, 5pm
-: {% disc 10 %} TBA 
+: {% disc 10 %} [MapReduce, Sampling, Transactions](https://drive.google.com/file/d/1mja96N2yTzh-N9g1Af1n-KmyaBFGy5_F/view?usp=sharing) 
   : Solution
 
 <!--
