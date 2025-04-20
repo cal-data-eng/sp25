@@ -18,7 +18,7 @@ Fri 4/18
 : {% hw_rel 5 %} [Homework 5](https://www.gradescope.com/courses/959541/assignments/6064366)
   : Due Wed 4/30, 5pm
 : {% disc 10 %} [MapReduce, Sampling, Transactions](https://drive.google.com/file/d/1mja96N2yTzh-N9g1Af1n-KmyaBFGy5_F/view?usp=sharing) 
-  : Solution
+  : [Solution](https://drive.google.com/file/d/1AUMkpLwzV3dDWuDn80GWvI0zRnwH6hwX/view?usp=sharing)
 
 <!--
 Thu 8/29
