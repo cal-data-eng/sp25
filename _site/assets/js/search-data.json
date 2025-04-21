@@ -603,21 +603,21 @@
   },"86": {
     "doc": "Home",
     "title": "Week 11",
-    "content": "Mon 3/31 Homework 4 Homework 4 Due Wed 4/9, 5pm Tue 4/1 Lecture 17 Semistructured Data: NoSQL, JSON, XML Course Notes Thu 4/3 Lecture 18 MongoDB I Course NotesMongoDB Style Guide Discussion 8 Normalization, Semi-Structured Data, MongoDB Solution Fri 4/4 Project 3 Due, 5pm Project 4 Mongo Due Fri 4/18 Sun 4/20, 5pm (Extended) Project 5 Optional* Final Project Checkpoint due Fri 4/18, 5pm Final Report due Fri 5/2, 5pm ",
+    "content": "Mon 3/31 Homework 4 Homework 4 Due Wed 4/9, 5pm Tue 4/1 Lecture 17 Semistructured Data: NoSQL, JSON, XML Course Notes Thu 4/3 Lecture 18 MongoDB I Course NotesMongoDB Style Guide Discussion 8 Normalization, Semi-Structured Data, MongoDB Solution Fri 4/4 Project 4 Mongo Due Fri 4/18 Sun 4/20, 5pm (Extended) Project 5 Optional* Final Project Checkpoint due Fri 4/18, 5pm Final Report due Fri 5/2, 5pm ",
     "url": "/sp25/#week-11",
     
     "relUrl": "/#week-11"
   },"87": {
     "doc": "Home",
     "title": "Week 12",
-    "content": "Tue 4/8 Lecture 19 MongoDB II Course Notes Wed 4/9 Homework 4 Due, 5pm Thu 4/10 Lecture 20 Data Ops and Pipelines Course Notes Discussion 9 MongoDB II, Data Operations Solution ",
+    "content": "Mon 4/7 Project 3 Due, 5pm Tue 4/8 Lecture 19 MongoDB II Course Notes Wed 4/9 Homework 4 Due, 5pm Thu 4/10 Lecture 20 Data Ops and Pipelines Course Notes Discussion 9 MongoDB II, Data Operations Solution ",
     "url": "/sp25/#week-12",
     
     "relUrl": "/#week-12"
   },"88": {
     "doc": "Home",
     "title": "Week 13",
-    "content": "Tue 4/15 Lecture 21 MapReduce, Sampling Course Notes Thu 4/17 Lecture 22 Transactions, BI, OLAP Course Notes Fri 4/18 Project 4 Extended – Due Sunday 5pm Project 5 Checkpoint due, 5pm Homework 5 Homework 5 Due Wed 4/30, 5pm Discussion 10 TBA Solution ",
+    "content": "Tue 4/15 Lecture 21 MapReduce, Sampling Course Notes Thu 4/17 Lecture 22 Transactions, BI, OLAP Course Notes Fri 4/18 Project 4 Extended – Due Sunday 5pm Project 5 Checkpoint due, 5pm Homework 5 Homework 5 Due Wed 4/30, 5pm Discussion 10 MapReduce, Sampling, Transactions Solution ",
     "url": "/sp25/#week-13",
     
     "relUrl": "/#week-13"
@@ -841,7 +841,7 @@
   },"120": {
     "doc": "Syllabus",
     "title": "Grading",
-    "content": "Letter grades for the course will be based on your overall score in the class. The default scheme for Data 101 is without the optional final project: . | Component | Weight(default) | Weight(Final Project) | Details | . | Lecture Check-Ins | 6% | 6% | Drop 4 lowest scores. Skip Lecture 01 and 02. | . | Projects | 36% | 36% | (8% each typically) No drops; Project 0 worth half others. see Late Policy | . | Homework Assignments | 18% | 18% | (3.6% each) No drops; see Late Policy | . | Midterm | 15% | 10% |   | . | Final Exam | 25% | 20% | Final is cumulative. | . | Final Project | – | 10% | Optional. See midway drop penalty below | . If you choose to do the project, your final grade will be the maximum of the two grading schemes. If you submit the team confirmation form at the checkpoint, but opt out of working on the project at any point after that, you will be assessed a penalty of 1% on your final grade. For Info 258 students, the grading scheme will be the one involving the final project. ",
+    "content": "Letter grades for the course will be based on your overall score in the class. The default scheme for Data 101 is without the optional final project: . | Component | Weight(default) | Weight(Final Project) | Details | . | Lecture Check-Ins | 6% | 6% | Drop 4 lowest scores. Skip Lecture 01 and 02. | . | Projects | 36% | 36% | (8% each typically) No drops; Project 0 worth half of others; See Late Policy | . | Homework Assignments | 18% | 18% | (3.6% each) No 1 drop; See Late Policy | . | Midterm | 15% | 10% |   | . | Final Exam | 25% | 20% | Final is cumulative. | . | Final Project | – | 10% | Optional. See midway drop penalty below | . If you choose to do the project, your final grade will be the maximum of the two grading schemes. If you submit the team confirmation form at the checkpoint, but opt out of working on the project at any point after that, you will be assessed a penalty of 1% on your final grade. For Info 258 students, the grading scheme will be the one involving the final project. ",
     "url": "/sp25/syllabus/#grading",
     
     "relUrl": "/syllabus/#grading"

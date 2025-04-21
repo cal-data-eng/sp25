@@ -131,8 +131,8 @@ Letter grades for the course will be based on your overall score in the class. T
 | **Component** | **Weight<br/>(default)** | **Weight<br/>(Final Project)** | **Details** |
 | --------- |:---:|:---:|--- |
 | Lecture Check-Ins | 6% | 6% |  Drop 4 lowest scores. Skip Lecture 01 and 02. |
-| Projects | 36% | 36% | (8% each typically) No drops; Project 0 worth half others. see [Late Policy](#late-policy) |
-| Homework Assignments | 18% | 18% | (3.6% each) No drops; see [Late Policy](#late-policy) |
+| Projects | 36% | 36% | (8% each typically) No drops; Project 0 worth half of others; See [Late Policy](#late-policy) |
+| Homework Assignments | 18% | 18% | (3.6% each) ~~No~~ **1** drop; See [Late Policy](#late-policy) |
 | Midterm | 15% | 10% |     |
 | Final Exam | 25% | 20% | Final is cumulative. |
 | Final Project | -- | 10% | Optional. See midway drop penalty below |

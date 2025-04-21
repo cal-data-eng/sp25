@@ -19,10 +19,9 @@ Thu 4/3
   : [Solution](https://drive.google.com/file/d/1zp60MoWzsHfl3LGppsaFs1qJF2N6E0f5/view?usp=sharing)
 
 Fri 4/4
-: {% proj_due 3 %} Due, 5pm
 : {% proj_rel 4 %} [Mongo](https://data101.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcal-data-eng%2Fsp25-materials.git&urlpath=lab%2Ftree%2Fsp25-materials.git%2Fproj%2Fproj4&branch=main)
   : Due ~~Fri 4/18~~ Sun 4/20, 5pm (Extended)
-: {% proj_rel 5 %} Optional\* Final Project
+: {% proj_rel 5 %} [Optional\* Final Project](https://data101.org/sp25/assignments/final-project/)
   : Checkpoint due Fri 4/18, 5pm  <br> Final Report due Fri 5/2, 5pm
 
 <!--
