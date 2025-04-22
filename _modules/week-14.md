@@ -9,9 +9,11 @@ Status: Active
 
 Tue 4/22
 : {% lec 23 %}
+  : [Course Notes](https://data101.org/notes/10-BI/BI.html#olap)
 
 Thu 4/24
 : {% lec 24 %}
+  : [Course Notes](https://data101.org/notes/13-spreadsheets/index.html)
 : {% disc 11 %} TBA 
   : Solution
 
