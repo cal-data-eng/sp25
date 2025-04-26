@@ -15,7 +15,7 @@ Thu 4/24
 : {% lec 24 %}
   : [Course Notes](https://data101.org/notes/13-spreadsheets/index.html)
 : {% disc 11 %} [Conflicting Actions, OLAP](https://drive.google.com/file/d/1PUOz4IcoaISt_MUb9Oxl-h9q6BtQS0pc/view?usp=sharing) 
-  : Solution
+  : [Solution](https://drive.google.com/file/d/1kAH7S5lOvC_LVj0LpvxrRmU2nSO8Pftr/view?usp=sharing)
 
 <!--
 Thu 8/29
