@@ -236,7 +236,7 @@ Your final report is expected to build upon much of your checkpoint report. Of c
 
 Your final report is **expected to at most 5 pages long** and should include code snippets, charts, tables, and screenshots as necessary. It could also include an optional appendix. You may choose to write your report in your team’s preferred tool (e.g., Overleaf or Google Docs).
 
-You may use up to 2 slip days on the final report/repository submission.
+You may use up to 2 slip days on the final report submission.
 
 ### 3\. Team Member Assessment (due {{page.deadlines.final}})
 
@@ -258,7 +258,7 @@ The final project is worth 75 points:
   * Tasks and Analysis \[45/60 points\]
 * Final Peer Assessment Form \[5 points\]
 
-A reasonable report would follow the provided scaffold in the template repository.
+A reasonable report would follow the provided scaffold in the template repository (TBA).
 
 ## Grading penalties if you drop midway
 
@@ -340,7 +340,7 @@ Most of the below tips are based on the collective wisdom of Data Science final 
   </summary>
 
   <p>
-    Each person may use up to <b>2 slip days</b> each on the checkpoint and the final report/repository submission. Slip days will be handled <b>individually</b> at the end of the semester. For example, if your team submits the checkpoint with 1 slip day and the final submission with 2 slip days, then each person gets a 3 slip day deduction from their total remaining slip days. This means that late penalties may be applied differently per team member.
+    Each person may use up to <b>2 slip days</b> each on the checkpoint and the final report submission. Slip days will be handled <b>individually</b> at the end of the semester. For example, if your team submits the checkpoint with 1 slip day and the final submission with 2 slip days, then each person gets a 3 slip day deduction from their total remaining slip days. This means that late penalties may be applied differently per team member.
   </p>
 </details>
 
