@@ -7,7 +7,7 @@ Status: Active
 Tue 4/29
 : {% lec 25 %}
   : [Course Notes](https://data101.org/notes/8-parallel_computing/index.html)
-: [End-of-Semester Form](https://docs.google.com/forms/d/1kNioRhiC4Y2g_5ocOVcBpPJbQgtsdehb2XljpnXHJfE/edit) Due Tuesday 5/6
+<br> [End-of-Semester Form](https://forms.gle/zo2Um3vKNf7iTqrt9)
 
 Wed 4/30
 : {% hw_due 5 %} Due, 5pm
