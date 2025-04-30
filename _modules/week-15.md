@@ -18,7 +18,7 @@ Thu 5/1
 
 Fri 5/2
 : {% proj_due 5 %} Final Report due, 5pm
-: {% disc 12 %} TBA
+: {% disc 12 %} [Parallel Processing, Spreadsheets, and Graph DB](https://drive.google.com/drive/folders/1N7CQ-9sPnnWxTa_Yg4dg0deUxS84rXVd)
   : Solution
 
 <!--
