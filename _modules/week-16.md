@@ -7,6 +7,9 @@ Status: Active
 All Week
 : RRR Week
 
+Monday 5/5
+: {% proj_due 5 %} Final Report due, 5pm
+
 <!--
 Thu 8/29
 : {% lec 1 %}

@@ -17,8 +17,7 @@ Thu 5/1
   : [Course Notes](https://data101.org/notes/11-graph_db/index.html)
 
 Fri 5/2
-: {% proj_due 5 %} Final Report due, 5pm
-: {% disc 12 %} [Parallel Processing, Spreadsheets, and Graph DB](https://drive.google.com/file/d/1IgLOR6k_cAdoMmR-cN-TWT4E3zP4Mpty/view?usp=sharing)
+: {% disc 12 %} TBA
   : Solution
 
 <!--
