@@ -18,7 +18,7 @@ Thu 5/1
 
 Fri 5/2
 : {% disc 12 %} [Parallel Processing, Spreadsheets, and Graph DB](https://drive.google.com/file/d/1IgLOR6k_cAdoMmR-cN-TWT4E3zP4Mpty/view?usp=sharing)
-  : Solution
+  : [Solution](https://drive.google.com/file/d/1oca5uvbHa8orIgI-aEvhkP_HIYj-A_66/view?usp=sharing)
 
 <!--
 Thu 8/29
