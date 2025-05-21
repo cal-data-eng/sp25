@@ -42,7 +42,7 @@ See [**Assignment Tips**](../assignment-tips).
 
 | **Semester** | Midterm | Final | Reference Packet | Notes |
 |:-------------|:-------:|:-----:|:---------------:|:-----:|
-| Spring 2025 | [Exam][sp25_midterm_blank] ([Solutions][sp25_midterm_solutions], [Videos][sp25_midterm_videos])| | [Midterm][sp25_midterm_reference_packet] | Common Errors: [Midterm][sp25_midterm_common_errors] |
+| Spring 2025 | [Exam][sp25_midterm_blank] ([Solutions][sp25_midterm_solutions], [Videos][sp25_midterm_videos])| [Exam][sp25_final_blank] ([Solutions][sp25_final_solutions]) | [Midterm][sp25_midterm_reference_packet], [Final][sp25_final_reference_packet] | Common Errors: [Midterm][sp25_midterm_common_errors], [Final][sp25_final_common_errors] |
 | Fall 2024 | [Exam][fa24_midterm_blank] ([Solutions][fa24_midterm_solutions])| [Exam][fa24_final_blank] ([Solutions][fa24_final_solutions], [Videos][fa24_final_videos]) | [Midterm][fa24_midterm_reference_packet], [Final][fa24_final_reference_packet] | Common Errors: [Midterm][fa24_midterm_common_errors], [Final][fa24_final_common_errors] |
 | Fall 2023 | | [Exam][fa23_final_blank] ([Solutions][fa23_final_solutions]) | [Final][fa23_final_reference_sheet] | [Common Errors][fa23_final_common_errors] |
 | Fall 2022 | | [Exam][fa22_final_blank] ([Solutions][fa22_final_solutions]) | | Shortened exam due to the UAW 2865 ASE strike |
@@ -67,6 +67,10 @@ See [**Assignment Tips**](../assignment-tips).
 [sp25_midterm_videos]: https://youtube.com/playlist?list=PLGecurVFP5LBOO7B_pWoMJNYpM7C01oF_&feature=shared
 [sp25_midterm_common_errors]: https://docs.google.com/document/d/1Ts50mcM4bTNiyc41vdo4JJPGbKiLMqHNdKD6bHspJ3A/preview
 [sp25_midterm_reference_packet]: {{ site.baseurl }}/assets/exams/sp25/sp25_midterm_reference_packet.pdf
+[sp25_final_blank]: {{ site.baseurl }}/assets/exams/sp25/sp25_final.pdf
+[sp25_final_solutions]: {{ site.baseurl }}/assets/exams/sp25/sp25_final_sol.pdf
+[sp25_final_common_errors]: https://docs.google.com/document/d/1qcXInh_R5EK3rl2oDv1TS1bUfjKAxwhyoGmvhQk8NlY/preview
+[sp25_final_reference_packet]: {{ site.baseurl }}/assets/exams/sp25/sp25_final_reference_packet.pdf
 
 Note: Reference sheets/packets will be provided with the paper exam; you should not need to print your own copy. Please post to Ed if you find typos. Thanks!
 
