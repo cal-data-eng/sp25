@@ -44,7 +44,7 @@ See [**Assignment Tips**](../assignment-tips).
 |:-------------|:-------:|:-----:|:---------------:|:-----:|
 | Spring 2025 | [Exam][sp25_midterm_blank] ([Solutions][sp25_midterm_solutions], [Videos][sp25_midterm_videos])| [Exam][sp25_final_blank] ([Solutions][sp25_final_solutions]) | [Midterm][sp25_midterm_reference_packet], [Final][sp25_final_reference_packet] | Common Errors: [Midterm][sp25_midterm_common_errors], [Final][sp25_final_common_errors] |
 | Fall 2024 | [Exam][fa24_midterm_blank] ([Solutions][fa24_midterm_solutions])| [Exam][fa24_final_blank] ([Solutions][fa24_final_solutions], [Videos][fa24_final_videos]) | [Midterm][fa24_midterm_reference_packet], [Final][fa24_final_reference_packet] | Common Errors: [Midterm][fa24_midterm_common_errors], [Final][fa24_final_common_errors] |
-| Fall 2023 | | [Exam][fa23_final_blank] ([Solutions][fa23_final_solutions]) | [Final][fa23_final_reference_sheet] | [Common Errors][fa23_final_common_errors] |
+| Fall 2023 | | [Exam][fa23_final_blank] ([Solutions][fa23_final_solutions]) | [Final][fa23_final_reference_sheet] | Common Errors: [Final][fa23_final_common_errors] |
 | Fall 2022 | | [Exam][fa22_final_blank] ([Solutions][fa22_final_solutions]) | | Shortened exam due to the UAW 2865 ASE strike |
 
 [fa22_final_blank]: {{ site.baseurl }}/assets/exams/fa22/fa22_final.pdf
