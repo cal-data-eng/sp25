@@ -34,6 +34,21 @@
 
 }
 
+.warning a {
+  color: $warning-link-color !important;
+  text-decoration: underline;
+}
+
+/* Optional: Add a hover state for better UX */
+.warning a:hover {
+  color: $warning-link-hover-color !important;
+  text-decoration: none;
+}
+
+.warning {
+  color: $warning-color !important; /* Changed from #757575 */
+}
+
 @media (min-width: 50rem) {
   .main { max-width: 100% !important;}
 
